@@ -1,21 +1,33 @@
 ---
 layout: post
-title: "Getting Started"
-author: "Paul Le"
-categories: documentation
+title: "Education"
+author: "Samantha Vanderburgh"
+categories: education
 tags: [documentation,sample]
 image: city-1.jpg
 ---
 
-# Millennial
+# Wright State University
+### Dayton, Ohio <br>
 
-Millennial is a minimalist Jekyll theme for running a simple, clean, content-focused publishing platform for your publication site or blog through [Github Pages](https://pages.github.com/), or on your own server. Everything that you will ever need to know about this Jekyll theme is included in the README below, which you can also find in [the demo site](https://lenpaul.github.io/Millennial/). For a guide on how to deploy a Jekyll site using GitHub Pages, please check out [this article](https://paulle.ca/jekyll-tutorials/deploy-jekyll-site-github-pages).
+[Bachelor of Science in Business, Finance](https://business.wright.edu/finance-and-financial-services/bachelor-of-science-in-business-finance-major) <br>
+August 2017 – April 2022 <br>
+[Bachelor of Arts in French, Arabic Minor](https://liberal-arts.wright.edu/social-sciences-and-international-studies/bachelor-of-arts-in-french) <br>
+August 2012 – April 2017 <br>
 
-If you like my work then please consider supporting me with [Ko-fi](https://ko-fi.com/paulle).
+# Tech Elevator Coding Bootcamp
+### Cincinnati, Ohio <br>
 
-![alt text](https://user-images.githubusercontent.com/8409329/32801138-33a72030-c94a-11e7-8a62-6184e6df5a8f.png "Millennial Demo Image")
+[Java Coding Certificate](https://www.techelevator.com/)
+September 2022 – December 2022 <br>
 
-## Notable features
+# Centre International d'Études Françaises
+### Angers, France <br>
+
+[Diplôme de Français des Affaires (Diploma of business French degree at C1 level)](https://www.cidef.uco.fr/navigation/academics/certifications/certificates-7821.kjsp) <br>
+August 2015 - December 2015 <br>
+
+## Notable features of this webpage
 
 * Compatible with GitHub Pages.
 
