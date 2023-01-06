@@ -4,7 +4,7 @@ title: "Experience"
 author: "Samantha Vanderburgh"
 categories: experience
 tags: [documentation,sample]
-image: cuba-1.jpg
+image: pexels-ömer-yılmaz-6726743-resized.jpg
 ---
 
 Below are my recent work experiences.
