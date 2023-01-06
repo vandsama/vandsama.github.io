@@ -4,7 +4,7 @@ title: "Education"
 author: "Samantha Vanderburgh"
 categories: education
 tags: [documentation,sample]
-image: city-1.jpg
+image: pexels-pavel-danilyuk-7942430-resized.jpg
 ---
 
 # Wright State University
@@ -27,7 +27,7 @@ September 2022 – December 2022 <br>
 [Diplôme de Français des Affaires (Diploma of business French degree at C1 level)](https://www.cidef.uco.fr/navigation/academics/certifications/certificates-7821.kjsp) <br>
 August 2015 - December 2015 <br>
 
-## Notable features of this webpage
+<!-- ## Notable features of this webpage
 
 * Compatible with GitHub Pages.
 
@@ -39,9 +39,9 @@ August 2015 - December 2015 <br>
 
 * Optimized for search engines.
 
-* LaTeX support through [MathJax](https://www.mathjax.org/).
+* LaTeX support through [MathJax](https://www.mathjax.org/). -->
 
-## Table of Contents
+<!-- ## Table of Contents
 
 1. [Introduction](#introduction)
    1. [What is Jekyll](#what-is-jekyll)
@@ -287,4 +287,4 @@ This theme is completely free and open source software. You may use it however y
 
 ## License
 
-Open sourced under the [MIT license](https://github.com/LeNPaul/Millennial/blob/gh-pages/LICENSE.md).
+Open sourced under the [MIT license](https://github.com/LeNPaul/Millennial/blob/gh-pages/LICENSE.md). -->
