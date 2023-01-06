@@ -1,22 +1,28 @@
 ---
 layout: post
-title: "Learning Resources"
-author: "Paul Le"
-categories: resources
+title: "Projects"
+author: "Samantha Vanderburgh"
+categories: projects
 tags: [documentation,sample]
 image: arctic-2.jpg
 ---
 
-The beauty of computer programming is that you do not need to formally go to school to learn how to program. You can learn almost everything that you would need to know online, and for free. The following resources are some that I have used personally, that I highly recommend, for anyone looking to learn more about computer programming.
+Below are several of my recent projects and extracurricular activities.
 
-## [Free Code Camp](https://www.freecodecamp.org/)
+## [■ Tech Elevator Final Capstone:]()
 
-My personal favourite for learning full stack web development. They offer a great front and back end curriculum that requires you to complete a variety of projects in order to apply the knowledge that you learn during the lessons. As a bonus, at the end of the curriculum you will have a few impressive projects under your belt for your portfolio.
+Web-based Pet Play Date application group project using Vue.js JavaScript framework.
 
-## [Codecademy](https://www.codecademy.com/)
+## [■ Finance Club President, Remote:](https://business.wright.edu/finance-and-financial-services/finance-club)
 
-Not only does Codecademy have many great courses on various web development languages such as [HTML](https://www.codecademy.com/learn/learn-html), [CSS](https://www.codecademy.com/learn/learn-css), and [JavaScript](https://www.codecademy.com/learn/introduction-to-javascript), but they even offer a course on [how to deploy a Jekyll site](https://www.codecademy.com/learn/deploy-a-website). If you are completely new to Jekyll, I would recommend working through that course as a great start for learning how to deploy your Jekyll site.
+Moderated online meetings and created the Diversity and Inclusion Officer position.
 
-## [Khan Academy](https://www.khanacademy.org/)
+## [■ Real Money Investing Course:](https://www.bizjournals.com/dayton/news/2022/06/03/wright-state-finance-students-develop-real-life-in.html)
 
-A great resource not only for learning mathematics (what most people probably know Khan Academy for), but also [computer programming](https://www.khanacademy.org/computing/computer-programming). What Khan Academy offers that is different from the other two above resources is that it offers courses in [computer science related](https://www.khanacademy.org/computing/computer-science) topics, such as [algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) and [cryptography](https://www.khanacademy.org/computing/computer-science/cryptography). This is unique in that most online resources mostly focus on the programming side of things.
+Helped manage a fund of $2.4M with fellow classmates by calculating stock price valuations.
+
+## [■ Simulated Applications:]()
+
+■ Therapist Chatbot - Keyword-recognition based chatbot in Java and implemented in IntelliJ.
+■ Vending Machine - A menu-based application developed in Java using OOP fundamentals.
+■ Money Transfer - Server-side program integrating database design and endpoint-testing.
