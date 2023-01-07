@@ -2,11 +2,13 @@
 layout: default
 ---
 
-{% for post in paginator.posts %}
-  {% include featured-post.html %}
-{% endfor %}
 
 <div class="post-content">
+  
+  
+  {% for post in paginator.posts %}
+    {% include featured-post.html %}
+  {% endfor %}
   
 
 <!--   {% if site.hide_post_date != true %}
