@@ -3,6 +3,9 @@
 # jekyll-paginate configuration
 paginate:            5
 
+pagination:
+  enabled: true;
+
 # Build settings
 markdown:            kramdown
 highlighter:         rouge
