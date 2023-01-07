@@ -10,10 +10,10 @@ image: pexels-ömer-yılmaz-6726743-resized.jpg
 Below are my recent work experiences.
 
 ## Intern Account Manager and Investment Operations Analyst
-[Westminster Financial Securities Inc.](https://www.westminsterfinancial.com/), Dayton, OH <br>
-[November 2020 – April 2022] <br>
+[Westminster Financial Securities Inc.](https://www.westminsterfinancial.com/), [Dayton], OH <br>
+November 2020 – April 2022 <br>
 
-■ Reconciled various portfolio and account management operations for a business of >$0.5B in AUM and >9,000 accounts <br> <br>
+■ Reconciled various portfolio and account management operations for a business of >$0.5B in AUM and >9,000 accounts <br>
 ■ Automated daily trade blotters, transfers, funds, and options reports using Microsoft Excel VBA Macro programs <br>
 ■ Provided account login and navigation support for clients and compiled portfolio performance reports for meetings <br>
 ■ Updated weekly Investment Policy Committee presentations and company pitch presentations containing risk mitigation analysis <br>
