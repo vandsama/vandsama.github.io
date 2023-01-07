@@ -1,10 +1,12 @@
 ---
 layout: post
 title: "About the Author"
-author: "Paul Le"
+author: "Samantha Vanderburgh"
 categories: facts
 tags: [sample]
-image: cuba-2.jpg
+image: pexels-cottonbro-studio-7610808-resized.jpg
 ---
 
-Hi there! I'm Paul. I’m a physics major turned programmer. Ever since I first learned how to program while taking a scientific computing for physics course, I have pursued programming as a passion, and as a career. Check out [my personal website](https://www.lenpaul.com/) for more information on my other projects (including more Jekyll themes!), as well as some of my writing.
+BSB in Finance from Wright State University '22 and BA in French Language from WSU '17. Experience as a math tutor, supplemental instructor of quantitative business methods, and intern account manager in investment operations while pursuing my BSB. Recent graduate of a 14-week software development boot-camp and currently job searching.
+
+I also have a wide variety of interests ranging from microbiology to astronomy and everything in between, including coffee and reality tv shows.
