@@ -1,5 +1,5 @@
 ---
-layout: Home
+layout: post
 title: "About the Author"
 author: "Samantha Vanderburgh"
 categories: about-the-author
