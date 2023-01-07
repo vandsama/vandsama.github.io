@@ -2,7 +2,7 @@
 layout: post
 title: "About the Author"
 author: "Samantha Vanderburgh"
-categories: facts
+categories: about
 tags: [sample]
 image: pexels-cottonbro-studio-7610808-resized.jpg
 ---
