@@ -18,7 +18,7 @@ August 2012 – April 2017 <br>
 # Tech Elevator Coding Bootcamp
 ### Cincinnati, Ohio <br>
 
-[Java Coding Certificate](https://www.techelevator.com/)
+[Java Coding Certificate](https://www.techelevator.com/) <br>
 September 2022 – December 2022 <br>
 
 # Centre International d'Études Françaises
