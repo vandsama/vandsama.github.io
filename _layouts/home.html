@@ -2,12 +2,16 @@
 layout: default
 title: Home
 ---
-
-{% for post in paginator.posts %}
-  {% include featured-post.html %}
-{% endfor %}
+<div id = "container">
+  {% for post in paginator.posts %}
+    {% include featured-post.html %}
+  {% endfor %}
+</div>
 
 <style>
+  .container {
+    position: relative;
+  }
   .featured-post {
     height: 50%;
   }
