@@ -7,11 +7,7 @@
       <div class="content-wrapper">
         {{ content }}
       </div>
-
-      {% for post in paginator.posts %}
-        {% include featured-post.html %}
-      {% endfor %}
-      
+    
       {% include footer.html %}
     </div>
   </body>
