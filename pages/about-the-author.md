@@ -1,6 +1,6 @@
 ---
 layout: category
-title: About the Author
+title: About
 category: about-the-author
 permalink: /about-the-author
 ---
