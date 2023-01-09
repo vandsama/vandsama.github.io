@@ -10,17 +10,26 @@ title: Home
 
 <style>
   .container {
-    display:flex;
+/*     display:flex;
     flex-wrap:wrap;
-    align-items:flex-start;
+    align-items:flex-start; */
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+    grid-gap: 10px;
+    background-color: #2196F3;
+    padding: 10px;
   }
   .featured-post {
 /*     aspect-ratio: 1 / 1; */
-    width: 200px;
+/*     width: 200px;
     height: auto;
     background-size: cover;
-    background-position: center center;
+    background-position: center center; */
 /*     object-fit: contain; */
+    background-color: rgba(255,255,255,0.8);
+    text-align: center;
+    padding: 20px 0;
+    font-size: 30px;
 
   }
 </style>
