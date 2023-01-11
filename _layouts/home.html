@@ -8,11 +8,14 @@
   {% endfor %}
 </div> -->
 
-  {% include head.html %}
-  {% include header.html %}
+
   
 <html>
-
+  <div class="headerContainer">
+    {% include head.html %}
+    {% include header.html %}
+  </div>
+  
   <div class="container">
       <input type="radio" name="slider" id="item-1" checked>
       <input type="radio" name="slider" id="item-2">
