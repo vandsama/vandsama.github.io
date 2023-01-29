@@ -79,11 +79,28 @@
     box-sizing: border-box;
   }
   
+  .site-header {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .header {
+    margin-left: auto;
+    margin-right: auto;
+  }  
+  
   body {
     overflow-y: scroll;
   }
   
-  content-wrapper {
+  .container {
+    width: $container-width;
+    margin-left: auto;
+    margin-right: auto;
+    box-sizing: none;
+  }
+  
+  .content-wrapper {
     margin: 0;
     padding: 0;
     width: 100%;
@@ -97,7 +114,27 @@
     transition: background .4s ease-in;
     background-color: #c394f8;
   } 
+  
+  .content-wrapper {
+    padding-top: $header-thickness+10px;
+    margin: auto;
+    display: block;
+    width: $container-width - 20px;
+    box-sizing: none;
+  }  
 
+  .content-wrapper {
+    width: 100%;
+    max-width: 800px;
+    max-height: 600px;
+    height: 100%;
+    transform-style: preserve-3d;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+  }
+  
   input[type=radio] {
     display: none;
   }
@@ -111,18 +148,6 @@
     margin: auto;
     transition: transform .4s ease;
     cursor: pointer;
-  }
-
-  .content-wrapper {
-    width: 100%;
-    max-width: 800px;
-    max-height: 600px;
-    height: 100%;
-    transform-style: preserve-3d;
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-    align-items: center;
   }
 
   .cards {
@@ -245,46 +270,6 @@
 
   #item-3:checked ~ .player #test  {
     transform: translateY(-80px);
-  }
-  
-  .container {
-    width: $container-width;
-    margin-left: auto;
-    margin-right: auto;
-    box-sizing: none;
-/*     position: sticky;
-    top: 0;
-    align-content: flex-start; */
-  }
-/*   .fixed-headerContainer a {
-    text-decoration: underline;
-    box-sizing: none;
-  } */
-  
-  .content-wrapper {
-    padding-top: $header-thickness+10px;
-    margin: auto;
-    display: block;
-    width: $container-width - 20px;
-    box-sizing: none;
-  }
-/*   .content-wrapper h1 {
-    margin: 20px 0px 5px;
-    box-sizing: none;
-  } */
-  
-  .site-header {
-    margin-left: auto;
-    margin-right: auto;
-  }
-  
-  .header {
-    margin-left: auto;
-    margin-right: auto;
-/*     display: flex;
-    justify-content: center;
-    flex-direction: column;
-    align-items: center; */
   }
 </style>
 
