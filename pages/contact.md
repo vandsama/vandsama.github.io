@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: category
 title: "Contact"
 author: "Samantha Vanderburgh"
 categories: education
