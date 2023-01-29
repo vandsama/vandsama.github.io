@@ -3,7 +3,7 @@ layout: post
 title: "Experience"
 author: "Samantha Vanderburgh"
 categories: experience
-tags: [documentation,sample]
+tags: [sample]
 image: pexels-ömer-yılmaz-6726743-resized.jpg
 ---
 
