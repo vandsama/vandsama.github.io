@@ -18,8 +18,33 @@
 
     <body>
     <div class="content-wrapper">
+        
+      <div class="carousel" v-if="renderCards">
+        <carousel-3d
+          :width="500"
+          :height="1000"
+          :autoplay="true"
+          :autoplay-timeout="5000"
+        >
+          <slide
+            style="background: none; border: none"
+            v-for="pet in pets"
+            v-bind:key="pet.id"
+            :index="pets.indexOf(pet)"
+            v-bind:pet="pet"
+          >
+            <petcard class="card" v-bind:pet="pet"></petcard>
+          </slide>
+        </carousel-3d>
+      </div>
+        
+        
+        
+        
+        
+        
       
-          <input type="radio" name="slider" id="item-1" checked>
+<!--           <input type="radio" name="slider" id="item-1" checked>
           <input type="radio" name="slider" id="item-2">
           <input type="radio" name="slider" id="item-3">
           <input type="radio" name="slider" id="item-4">
@@ -45,47 +70,13 @@
           <label class="card" for="item-6" id="song-6">
             <img src="/assets/img/pexels-ds-stories-9227566-resized.jpg" alt="contact">
           </label>
-        </div>
-      
-<!--         <div class="player">
-          <div class="upper-part">
-            <div class="play-icon">
-              <svg width="20" height="20" fill="#2992dc" stroke="#2992dc" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="feather feather-play" viewBox="0 0 24 24">
-                <defs/>
-                <path d="M5 3l14 9-14 9V3z"/>
-              </svg>
-            </div>
-            <div class="info-area" id="test">
-              <label class="song-info" id="song-info-1">
-                <div class="title">Bunker</div>
-                <div class="sub-line">
-                  <div class="subtitle">Balthazar</div>
-                  <div class="time">4.05</div>
-                </div>
-              </label>
-              <label class="song-info" id="song-info-2">
-                <div class="title">Words Remain</div>
-                <div class="sub-line">
-                  <div class="subtitle">Moderator</div>
-                  <div class="time">4.05</div>
-                </div>
-              </label>
-              <label class="song-info" id="song-info-3">
-                <div class="title">Falling Out</div>
-                <div class="sub-line">
-                  <div class="subtitle">Otzeki</div>
-                  <div class="time">4.05</div>
-                </div>
-              </label>
-            </div>
-          </div>
-          <div class="progress-bar">
-            <span class="progress"></span>
-          </div>
         </div> -->
       
-      
-      </div>
+        
+        
+        
+        
+       </div>       <!--end content wrapper-->
     </body>
   </div>
 </html>
@@ -113,8 +104,6 @@
     align-items: center;
     justify-content: center;
     transition: background .4s ease-in;
-/*     background-col or: #c394f8;
-    padding-top: 100px; */
   }
   
   .container {
@@ -243,112 +232,26 @@
     }
   }
 
-  .player {
-    background-color: #fff;
-    border-radius: 8px;
-    min-width: 320px;
-    padding: 16px 10px;
-  }
-
-  .upper-part {
-    position: relative;
-    display: flex;
-    align-items: center;
-    margin-bottom: 12px;
-    height: 36px;
-    overflow: hidden;
-  }
-
-  .play-icon { 
-    margin-right: 10px; 
-  }
-
-  .song-info {
-    width: calc(100% - 32px);
-    display: block;
-  }
-
-  .song-info .title {
-    color: #403d40;
-    font-size: 14px;
-    line-height: 24px;
-  }
-
-  .sub-line {
-    display: flex;
-    justify-content: space-between;
-    width: 100%;
-  }
-
-  .subtitle, .time {
-    font-size: 12px;
-    line-height: 16px;
-    color: #c6c5c6;
-  }
-
-  .time {
-    font-size: 12px;
-    line-height: 16px;
-    color: #a5a5a5;
-    font-weight: 500;
-    margin-left: auto;
-  }
-
-  .progress-bar {
-    height: 3px;
-    width: 100%;
-    background-color: #e9efff;
-    border-radius: 2px;
-    overflow: hidden;
-  }
-
-  .progress {
-    display: block;
-    position: relative;
-    width: 60%;
-    height: 100%;
-    background-color: #2992dc;
-    border-radius: 6px;
-  }
-
-  .info-area {
-    width: 100%;
-    position: absolute;
-    left: 30px;
-    transition: transform .4s ease-in;
-  }
-/* 
-  #item-2:checked ~ .player #test {
-    transform: translateY(0);
-  }
-
-  #item-2:checked ~ .player #test  {
-    transform: translateY(-40px);
-  }
-
-  #item-3:checked ~ .player #test  {
-    transform: translateY(-80px);
-  } */
-    
+.carousel-3d-container {
+  margin: 0;
+  padding: 0;
+}
+.carousel {
+  width: auto;
+  height: 1000px;
+} 
 </style>
 
 <script>
+import { Carousel3d, Slide } from "vue-carousel-3d";
+export default {
+    components: {
+        Carousel3d,
+    };
+    
+    
   $('input').on('change', function() {
   $('body').toggleClass('blue');
 });
 </script>
 
-
-<!-- Pagination links -->
-<!-- <div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-button pagination-active next" href="{{ site.github.url }}{{ paginator.next_page_path }}">{{ site.data.settings.pagination.previous_page }}</a>
-  {% else %}
-    <span class="pagination-button">{{ site.data.settings.pagination.previous_page }}</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    <a class="pagination-button pagination-active" href="{{ site.baseurl }}{{ paginator.previous_page_path }}">{{ site.data.settings.pagination.next_page }}</a>
-  {% else %}
-    <span class="pagination-button">{{ site.data.settings.pagination.next_page }}</span>
-  {% endif %}
-</div> -->
