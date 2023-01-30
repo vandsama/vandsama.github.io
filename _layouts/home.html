@@ -192,6 +192,16 @@
       box-shadow: 0px 0px 5px 0px rgba(81, 81, 81, 0.47);
     }
   }
+    
+  #item-1:checked ~ .cards #song-1, #item-2:checked ~ .cards #song-2, #item-4:checked ~ .cards #song-4 {
+    transform: translatex(0) scale(1);
+    opacity: 1;
+    z-index: 1;
+
+    img {
+      box-shadow: 0px 0px 5px 0px rgba(81, 81, 81, 0.47);
+    }
+  }
 
   .player {
     background-color: #fff;
