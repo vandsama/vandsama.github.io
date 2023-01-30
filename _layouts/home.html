@@ -19,7 +19,7 @@
           <input type="radio" name="slider" id="item-3">
       
         <div class="cards">
-              {% for post in paginator.posts %}
+              {% for post in paginator.posts % class="card"}
                 {% include featured-post.html %}
               {% endfor %}
           
