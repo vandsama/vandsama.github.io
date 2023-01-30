@@ -2,15 +2,17 @@
 <!-- layout: default -->
 <!-- title: Home -->
 ---
-<!-- <div id = "container">
-  {% for post in paginator.posts %}
-    {% include featured-post.html %}
-  {% endfor %}
-</div> -->
-
 
   
 <html>
+  <div>
+    {% for post in paginator.posts %}
+      {% include featured-post.html %}
+    {% endfor %}
+  </div>
+
+  
+  
   <div class="container">
     {% include head.html %}
     {% include header.html %}
