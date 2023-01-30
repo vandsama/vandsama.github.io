@@ -91,6 +91,13 @@
   
   body {
     overflow-y: scroll;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 30px 10px;
+    font-family: 'DM Sans', sans-serif;
+    transition: background .4s ease-in;
+    background-color: #c394f8;
   }
   
   .container {
@@ -112,7 +119,8 @@
     
 /*     margin: 0; */
     margin: auto;
-    display: flex;
+    display: block;
+/*     display: flex; */
     padding-top: $header-thickness+10px;
     
     transform-style: preserve-3d;
@@ -120,7 +128,7 @@
     justify-content: center;
     align-items: center;
 
-/*     box-sizing: none; */
+    box-sizing: none;
 
     font-family: 'DM Sans', sans-serif;
     transition: background .4s ease-in;
