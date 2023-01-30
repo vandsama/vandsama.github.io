@@ -170,6 +170,18 @@
     border-radius: 10px;
     object-fit: cover;
   }
+    
+  #item-1:checked ~ .cards #song-4, #item-3:checked ~ .cards #song-1, #item-3:checked ~ .cards #song-5 {
+    transform: translatex(-60%) scale(.6);
+    opacity: .2;
+    z-index: 0;
+  }  
+    
+  #item-1:checked ~ .cards #song-4, #item-3:checked ~ .cards #song-1, #item-3:checked ~ .cards #song-4 {
+    transform: translatex(-60%) scale(.6);
+    opacity: .2;
+    z-index: 0;
+  }
 
   #item-1:checked ~ .cards #song-3, #item-2:checked ~ .cards #song-1, #item-3:checked ~ .cards #song-2 {
     transform: translatex(-40%) scale(.8);
@@ -184,16 +196,6 @@
   }
 
   #item-1:checked ~ .cards #song-1, #item-2:checked ~ .cards #song-2, #item-3:checked ~ .cards #song-3 {
-    transform: translatex(0) scale(1);
-    opacity: 1;
-    z-index: 1;
-
-    img {
-      box-shadow: 0px 0px 5px 0px rgba(81, 81, 81, 0.47);
-    }
-  }
-    
-  #item-1:checked ~ .cards #song-1, #item-2:checked ~ .cards #song-2, #item-4:checked ~ .cards #song-4 {
     transform: translatex(0) scale(1);
     opacity: 1;
     z-index: 1;
