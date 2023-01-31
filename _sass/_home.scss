@@ -1,5 +1,5 @@
 .featured-post {
-  height: 400px;
+  height: 100px;
   margin: 5px 10px 10px;
   background-position: center;
   background-repeat: no-repeat;
@@ -30,7 +30,7 @@
 
 article {
   aspect: 1/1;
-  width: 200px;
+  max-height: 150px;
 }
 
 /*
