@@ -1,15 +1,17 @@
 ---
 layout: default
 ---
-<div class=pageCategory>
-{% for post in site.posts %}
-  {% if post.categories contains page.category %}
-    {% include featured-post.html %}
-  {% endif %}
-{% endfor %}
-</div>
+
 
 <div class="post-content">
+  
+  {% for post in site.posts %}
+    {% if post.categories contains page.category %}
+      {% include featured-post.html %}
+    {% endif %}
+  {% endfor %}
+  
+  
   <h1>
     {{ page.title }}
   </h1>
