@@ -9,6 +9,7 @@ image: pexels-pavel-danilyuk-7942430-resized.jpg
 
 ## [Bachelor of Science in Business, Finance](https://business.wright.edu/finance-and-financial-services/bachelor-of-science-in-business-finance-major) <br>
 *August 2017 – April 2022* <br>
+### Received from Wright State University, Dayton, Ohio <br>
 ## [Bachelor of Arts in French, Arabic Minor](https://liberal-arts.wright.edu/social-sciences-and-international-studies/bachelor-of-arts-in-french) <br>
 *August 2012 – April 2017* <br>
 ### Received from Wright State University, Dayton, Ohio <br>
