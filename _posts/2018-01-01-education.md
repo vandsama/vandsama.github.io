@@ -11,17 +11,19 @@ image: pexels-pavel-danilyuk-7942430-resized.jpg
 *August 2017 – April 2022* <br>
 ### Received from Wright State University, Dayton, Ohio <br>
 ## [BA French](https://liberal-arts.wright.edu/social-sciences-and-international-studies/bachelor-of-arts-in-french) 
-### Minor in Arabic <br>
+#### Minor in Arabic <br>
 *August 2012 – April 2017* <br>
 ### Received from Wright State University, Dayton, Ohio <br>
 
 
-## [Java Coding Certificate](https://www.techelevator.com/) <br>
+## [Software Development Certificate](https://www.techelevator.com/) <br>
+#### Full-stack Java Application
 *September 2022 – December 2022* <br>
 ### Received from Tech Elevator Coding Bootcamp, Cincinnati, Ohio <br>
 
 
-## [Diplôme de Français des Affaires (Diploma of business French degree at C1 level)](https://www.cidef.uco.fr/navigation/academics/certifications/certificates-7821.kjsp) <br>
+## [Diplôme de Français des Affaires](https://www.cidef.uco.fr/navigation/academics/certifications/certificates-7821.kjsp) <br>
+#### Diploma of business French degree at C1 level
 *August 2015 - December 2015* <br>
 ### Receieved from Centre International d'Études Françaises, Angers, France <br>
 
