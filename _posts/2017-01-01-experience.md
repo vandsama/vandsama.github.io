@@ -10,8 +10,8 @@ image: pexels-ömer-yılmaz-6726743-resized.jpg
 Below are my recent work experiences.
 
 ## Intern Account Manager and Investment Operations Analyst
-[Westminster Financial Securities Inc.](https://www.westminsterfinancial.com/) <br>
-Dayton, OH *November 2020 – April 2022* <br>
+[Westminster Financial Securities Inc.](https://www.westminsterfinancial.com/) **Dayton, OH** <br>
+*November 2020 – April 2022* <br>
 
 <details><summary>Responsibilities</summary>
 <p>
@@ -26,8 +26,8 @@ Dayton, OH *November 2020 – April 2022* <br>
 
 
 ## Supplemental Instruction Leader of Business Statistics and Quantitative Business Modeling
-[Wright State University Tutoring Services Center](https://www.wright.edu/student-success/academic-support/tutoring-services) <br>
-Dayton, OH *August 2019 – July 2020* <br>
+[Wright State University Tutoring Services Center](https://www.wright.edu/student-success/academic-support/tutoring-services) **Dayton, OH** <br>
+*August 2019 – July 2020* <br>
 
 <details><summary>Responsibilities</summary>
 <p>
@@ -42,8 +42,8 @@ Dayton, OH *August 2019 – July 2020* <br>
   
   
 ## Math Tutor of College Algebra, Business Statistics, and Quantitative Business Modeling
-[Wright State University Math Learning Center](https://www.wright.edu/student-success/academic-support/math-learning-center) <br>
-Dayton, OH *August 2019 – April 2021* <br>
+[Wright State University Math Learning Center](https://www.wright.edu/student-success/academic-support/math-learning-center) **Dayton, OH** <br>
+*August 2019 – April 2021* <br>
 
 <details><summary>Responsibilities</summary>
 <p>  
