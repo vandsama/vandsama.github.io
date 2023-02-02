@@ -10,26 +10,9 @@ image: pexels-pavel-danilyuk-7942430-resized.jpg
 ## [BSB Finance](https://business.wright.edu/finance-and-financial-services/bachelor-of-science-in-business-finance-major) <br>
 *August 2017 – April 2022* <br>
 ### Received from Wright State University, Dayton, Ohio <br>
-## [BA French](https://liberal-arts.wright.edu/social-sciences-and-international-studies/bachelor-of-arts-in-french) <br>
-### [Minor in Arabic]
+## [BA French](https://liberal-arts.wright.edu/social-sciences-and-international-studies/bachelor-of-arts-in-french) ### Minor in Arabic <br>
 *August 2012 – April 2017* <br>
 ### Received from Wright State University, Dayton, Ohio <br>
-
-
-## [BSB Finance](https://business.wright.edu/finance-and-financial-services/bachelor-of-science-in-business-finance-major)
-Received from [Wright State University](https://www.wright.edu/) **Dayton, OH** <br>
-*August 2017 – April 2022* <br>
-
-<details><summary> ## [BSB Finance](https://business.wright.edu/finance-and-financial-services/bachelor-of-science-in-business-finance-major) </summary>
-<p>
-
-*August 2017 – April 2022*
-Received from [Wright State University](https://www.wright.edu/) 
-**Dayton, OH**
-  
-</p>
-</details>
-
 
 
 ## [Java Coding Certificate](https://www.techelevator.com/) <br>
