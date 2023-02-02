@@ -7,7 +7,7 @@ tags: [sample]
 image: pexels-pavel-danilyuk-7942430-resized.jpg
 ---
 
-## [BSB Finance](https://business.wright.edu/finance-and-financial-services/bachelor-of-science-in-business-finance-major) <br>
+## [BSB Finance](https://business.wright.edu/finance-and-financial-services/bachelor-of-science-in-business-finance-major)
 #### General Track
 ### Wright State University, Dayton, Ohio <br>
 *August 2017 – April 2022* <br>
@@ -17,13 +17,13 @@ image: pexels-pavel-danilyuk-7942430-resized.jpg
 *August 2012 – April 2017* <br>
 
 
-## [Software Development Certificate](https://www.techelevator.com/) <br>
+## [Software Development Certificate](https://www.techelevator.com/)
 #### Full-stack Java Application
 ### Tech Elevator Coding Bootcamp, Cincinnati, Ohio <br>
 *September 2022 – December 2022* <br>
 
 
-## [Diplôme de Français des Affaires](https://www.cidef.uco.fr/navigation/academics/certifications/certificates-7821.kjsp) <br>
+## [Diplôme de Français des Affaires](https://www.cidef.uco.fr/navigation/academics/certifications/certificates-7821.kjsp)
 #### Diploma of business French degree at C1 level
 ### Centre International d'Études Françaises, Angers, France <br>
 *August 2015 - December 2015* <br>
