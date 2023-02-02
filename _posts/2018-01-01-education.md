@@ -8,6 +8,7 @@ image: pexels-pavel-danilyuk-7942430-resized.jpg
 ---
 
 ## [BSB Finance](https://business.wright.edu/finance-and-financial-services/bachelor-of-science-in-business-finance-major) <br>
+#### General Track
 *August 2017 – April 2022* <br>
 ### Received from Wright State University, Dayton, Ohio <br>
 ## [BA French](https://liberal-arts.wright.edu/social-sciences-and-international-studies/bachelor-of-arts-in-french) 
