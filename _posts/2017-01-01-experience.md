@@ -14,10 +14,19 @@ Below are my recent work experiences.
 Dayton, OH <br>
 November 2020 – April 2022 <br>
 
+<details><summary>Responsibilities</summary>
+<p>
+
 ■ Reconciled various portfolio and account management operations for a business of >$0.5B in AUM and >9,000 accounts <br>
 ■ Automated daily trade blotters, transfers, funds, and options reports using Microsoft Excel VBA Macro programs <br>
 ■ Provided account login and navigation support for clients and compiled portfolio performance reports for meetings <br>
 ■ Updated weekly Investment Policy Committee presentations and company pitch presentations containing risk mitigation analysis <br>
+
+</p>
+</details>
+
+
+
 
 ## Supplemental Instruction Leader of Business Statistics and Quantitative Business Modeling
 [Wright State University Tutoring Services Center](https://www.wright.edu/student-success/academic-support/tutoring-services) <br>
