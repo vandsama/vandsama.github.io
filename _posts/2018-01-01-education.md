@@ -26,7 +26,7 @@ image: pexels-pavel-danilyuk-7942430-resized.jpg
 ## [Diplôme de Français des Affaires](https://www.cidef.uco.fr/navigation/academics/certifications/certificates-7821.kjsp) <br>
 #### Diploma of business French degree at C1 level
 *August 2015 - December 2015* <br>
-### Receieved from Centre International d'Études Françaises, Angers, France <br>
+### Received from Centre International d'Études Françaises, Angers, France <br>
 
 <!-- 
 # Markdown Support
