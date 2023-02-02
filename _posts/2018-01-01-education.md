@@ -11,21 +11,21 @@ image: pexels-pavel-danilyuk-7942430-resized.jpg
 ### Dayton, Ohio <br>
 
 [Bachelor of Science in Business, Finance](https://business.wright.edu/finance-and-financial-services/bachelor-of-science-in-business-finance-major) <br>
-August 2017 – April 2022 <br>
+*August 2017 – April 2022* <br>
 [Bachelor of Arts in French, Arabic Minor](https://liberal-arts.wright.edu/social-sciences-and-international-studies/bachelor-of-arts-in-french) <br>
-August 2012 – April 2017 <br>
+*August 2012 – April 2017* <br>
 
 # Tech Elevator Coding Bootcamp
 ### Cincinnati, Ohio <br>
 
 [Java Coding Certificate](https://www.techelevator.com/) <br>
-September 2022 – December 2022 <br>
+*September 2022 – December 2022* <br>
 
 # Centre International d'Études Françaises
 ### Angers, France <br>
 
 [Diplôme de Français des Affaires (Diploma of business French degree at C1 level)](https://www.cidef.uco.fr/navigation/academics/certifications/certificates-7821.kjsp) <br>
-August 2015 - December 2015 <br>
+*August 2015 - December 2015* <br>
 
 
 <!-- 
