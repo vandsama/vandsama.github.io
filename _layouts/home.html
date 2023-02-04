@@ -5,3 +5,36 @@ title: Home
     {% for post in paginator.posts %}
         {% include featured-post.html %}
     {% endfor %}
+
+
+<head>
+    <link rel="stylesheet" href="path_to_css/owl.carousel.css" />
+    <link rel="stylesheet" href="path_to_css/owl.transitions.css" />
+</head>
+
+<container>
+    <div id="owl" class="owl-carousel">
+      <div> Your Content </div>
+      <div> Your Content </div>
+    </div>
+</container>
+
+<script src="path_to_js/owl.carousel.min.js"></script>
+
+
+<script type="text/javascript">
+  $(document).ready(function() {
+    $("#owl").owlCarousel({
+      // Most important Owl Carousel features
+      items:              5,
+      itemsCustom:        false,
+      itemsDesktop:       [1199,4],
+      itemsDesktopSmall:  [980,3],
+      itemsTablet:        [768,2],
+      itemsTabletSmall:   false,
+      itemsMobile:        [479,1],
+      singleItem:         false,
+      itemsScaleUp:       false
+    });
+  });
+</script>
