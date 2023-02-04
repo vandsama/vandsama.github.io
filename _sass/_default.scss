@@ -2,6 +2,12 @@
   Site container
 */
 
+.sidebar-wrapper {
+  position: static;
+  float: left;
+  width: 40%;
+}
+
 .featured-post {
   height: 400px;
   margin: 5px 10px 10px;
