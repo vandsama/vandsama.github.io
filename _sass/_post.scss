@@ -39,12 +39,14 @@
 
 
 .post-content {
-  width: $container-width;
+  float: right;
+  width: 60%;
   margin-left: auto;
   margin-right: auto;
   display: block;
-//   margin: 10px auto 10px;
+  margin: 10px auto 10px;
 }
+
 // .post-date {
 //   display: block;
 //   margin-bottom: 1rem;
