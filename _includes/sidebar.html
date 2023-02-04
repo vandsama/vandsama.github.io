@@ -1,0 +1,44 @@
+<!-- <div class="post-share">
+  <div class="post-date">{{ site.data.settings.sharing_button_prompt }}</div>
+  <div class="sharing-icons">
+    <a href="https://twitter.com/intent/tweet?text={{ page.title }}&amp;url={{ site.github.url }}{{ page.url }}" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+    <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.github.url }}{{ page.url }}&amp;title={{ page.title }}" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+  </div>
+</div> -->
+
+
+
+
+{% assign sidebar = site.data.data.sidebar %}
+<div class="sidebar-wrapper">
+
+  <div class="profile-container">
+
+    {% if sidebar.name %}
+    <img class="avatar" src="{{ site.baseurl }}/assets/images/{{ sidebar.avatar }}" alt="profile picture" />
+    {% endif %}
+
+    {% if sidebar.name %}
+    <h1 class="name">{{ sidebar.name }}</h1>
+    {% endif %}
+
+    {% if sidebar.tagline %}
+    <h3 class="tagline">{{ sidebar.tagline }}</h3>
+    {% endif %}
+
+  </div><!--//profile-container-->
+
+  {% include contact.html %}
+
+  {% if sidebar.education %}
+    {% include education.html %}
+  {% endif %}
+
+  {% include language.html %}
+  {% include interests.html %}
+
+  {% if sidebar.about %}
+    {% include about.html %}
+  {% endif %}
+
+</div><!--//sidebar-wrapper-->
