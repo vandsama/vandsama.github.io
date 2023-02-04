@@ -4,12 +4,12 @@
   <body>
     <div class="container">
       {% include header.html %}
-      
-      {% for post in paginator.posts %}
-        {% include featured-post.html %}
-      {% endfor %}
-
       <div class="content-wrapper">
+        
+        {% for post in paginator.posts %}
+          {% include featured-post.html %}
+        {% endfor %}
+        
         {{ content }}
       </div>
             {% include footer.html %}
