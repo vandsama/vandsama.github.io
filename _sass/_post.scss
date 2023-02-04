@@ -38,11 +38,13 @@
 
 
 
-// .post-content {
-//   width: 600px;
-//   display: block;
+.post-content {
+  width: $container-width;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 //   margin: 10px auto 10px;
-// }
+}
 // .post-date {
 //   display: block;
 //   margin-bottom: 1rem;
