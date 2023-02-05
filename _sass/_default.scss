@@ -50,12 +50,12 @@
 }
 .content-wrapper {
   padding-top: $header-thickness+10px;
-  margin: auto;
+  margin: 10px;
   display: block;
   
   position: static;
-  float: right;
-  width: 60%;
+  float: left;
+
 }
 .content-wrapper h1 {
   margin: 20px 0px 5px;
