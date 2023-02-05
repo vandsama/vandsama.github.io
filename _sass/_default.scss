@@ -41,7 +41,7 @@
 
 
 .featured-image {
-  height: 400px;
+  wdith: 400px;
   margin: 5px 10px 10px;
   background-position: center;
   background-repeat: no-repeat;
@@ -87,7 +87,8 @@
   display: block;
   
   position: static;
-  float: left;
+  float: right;
+  width: 40%;
 
 }
 .content-wrapper h1 {
