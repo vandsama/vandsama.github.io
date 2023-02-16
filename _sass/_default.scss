@@ -88,9 +88,13 @@
   
   position: static;
   float: right;
-  width: 80%;
+  width: 70%;
 
 }
+.post-content {
+  max-width: 100%;
+}
+
 .content-wrapper h1 {
   margin: 20px 0px 5px;
 }
