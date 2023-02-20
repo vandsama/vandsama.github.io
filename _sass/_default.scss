@@ -3,7 +3,7 @@
 */
 
 .sidebar-wrapper {
-  padding-top: $header-thickness+20px;
+  padding-top: $header-thickness+10px;
   position: static;
   float: left;
   width: 20%;
@@ -82,10 +82,8 @@
   text-decoration: underline;
 }
 .content-wrapper {
-  padding-top: $header-thickness+10px;
   margin: 10px;
   display: block;
-  
   position: static;
   float: right;
   width: 70%;
