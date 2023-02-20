@@ -7,6 +7,8 @@ tags: [sample]
 image: pexels-ömer-yılmaz-6726743-resized.jpg
 ---
 
+<h1> Experience </h1>
+
 ## Intern Account Manager and Investment Operations Analyst
 [Westminster Financial Securities Inc.](https://www.westminsterfinancial.com/) **Dayton, OH** <br>
 *November 2020 – April 2022* <br>
