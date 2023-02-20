@@ -7,6 +7,8 @@ tags: [sample]
 image: pexels-pavel-danilyuk-7942430-resized.jpg
 ---
 
+<h1> Education </h1>
+
 ## [BSB Finance](https://business.wright.edu/finance-and-financial-services/bachelor-of-science-in-business-finance-major)
 #### General Track
 ### Wright State University, Dayton, Ohio <br>
