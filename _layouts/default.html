@@ -5,9 +5,11 @@
   <body>
     <div class="container">
     {% include header.html %}     
-      {% include sidebar.html %}
-      <div class="content-wrapper">
-        {{ content }}
+      <div class="sidebarAndContent">
+        {% include sidebar.html %}
+        <div class="content-wrapper">
+          {{ content }}
+        </div>
       </div>
     </div>
   </body>
