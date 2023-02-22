@@ -1,6 +1,8 @@
 .site-header {
   min-height: 56px;
   width: $container-width;
+  margin-left: auto;
+  margin-right: auto;
   position: fixed;
   background-color: white;
   box-shadow: 0 5px 6px -6px #bbb;
