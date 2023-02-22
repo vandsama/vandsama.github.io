@@ -2,6 +2,12 @@
   Site container
 */
 
+.body {
+  width: $container-width;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .sidebar-wrapper {
   position: static;
   float: left;
