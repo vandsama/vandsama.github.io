@@ -12,6 +12,11 @@
   padding-top: $header-thickness+10px;
 }
 
+.sidebarAndContent a {
+   text-decoration: underline;
+   color:#FF0000;
+ }
+
 .featured-post {
   height: 400px;
   margin: 5px 10px 10px;
@@ -44,7 +49,7 @@
 
 
 .featured-image {
-  wdith: 200px;
+  width: 200px;
   margin: 5px 10px 10px;
   background-position: center;
   background-repeat: no-repeat;
@@ -79,10 +84,10 @@
   margin-left: auto;
   margin-right: auto;
 }
-.container a {
-  text-decoration: underline;
-  color:#FF0000;
-}
+// .container a {
+//   text-decoration: underline;
+//   color:#FF0000;
+// }
 .content-wrapper {
   margin-left: 10px;
   display: block;
