@@ -100,9 +100,7 @@
   max-width: 100%;
 }
 
-.content-wrapper h1 {
-  margin: 20px 0px 5px;
-}
+
 @media (max-width: $container-width) {
   .container {
     width: 95vw;
@@ -110,7 +108,6 @@
     margin-right: auto;
   }
   .content-wrapper {
-    padding-top: $header-thickness+10px;
     margin: auto;
     display: block;
     width: 95vw;
