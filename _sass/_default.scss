@@ -6,13 +6,14 @@
   position: static;
   float: left;
   width: 20%;
+  padding-top: 10px;
 }
 
 .sidebarAndContent {
   padding-top: $header-thickness+10px;
 }
 
-.sidebarAndContent a {
+.sidebarAndContent a:hover {
    text-decoration: underline;
    color:#FF0000;
  }
