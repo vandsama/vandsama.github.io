@@ -8,6 +8,11 @@
   box-shadow: 0 5px 6px -6px #bbb;
   z-index: 100;
 }
+.header {
+  width: $container-width;
+  margin-left: auto;
+  margin-right: auto;
+}
 @media (max-width: $container-width) {
   .site-header {
     min-height: 56px;
