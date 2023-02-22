@@ -2,12 +2,6 @@
   Site container
 */
 
-.body {
-  width: $container-width;
-  margin-left: auto;
-  margin-right: auto;
-}
-
 .sidebar-wrapper {
   position: static;
   float: left;
@@ -76,10 +70,7 @@
 }
 
 
-
-
 .container {
-  padding-top: $header-thickness+10px;
   width: $container-width;
   margin-left: auto;
   margin-right: auto;
