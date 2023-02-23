@@ -25,7 +25,6 @@
 }
 .site-header a {
   text-decoration: none;
-  width: 15%;
 }
 .site-title {
   font-size: 26px;
@@ -39,6 +38,7 @@
 .menu-list {
   line-height: $header-thickness;
   float: right;
+  width: 15%;
 }
 .menu-link {
   padding: 5px 10px;
