@@ -235,8 +235,8 @@
       }
     }
     &:checked {
-      width: 50%;
-      height: 50%;
+      width: 150%;
+      height: 150%;
       border-radius: 0;
       ~ .video {
         clip-path: var(--clip-path-clicked);
