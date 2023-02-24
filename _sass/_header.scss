@@ -52,14 +52,14 @@
 
 
 .site-header a {
-//   background-image: linear-gradient(
-//     to left,
-//     #54b3d6,
-//     #54b3d6 50%,
-//     #000 50%
-//   );
-//   background-size: 200% 100%;
-//   background-position: -100%;
+  background-image: linear-gradient(
+    to left,
+    #54b3d6,
+    #54b3d6 50%,
+    #000 50%
+  );
+  background-size: 200% 100%;
+  background-position: -100%;
   display: inline-block;
   padding: 5px 0;
   position: relative;
@@ -70,7 +70,7 @@
 
 .site-header a:before{
   content: '';
-  background: #54b3d6;
+//   background: #54b3d6;
   display: block;
   position: absolute;
   bottom: -3px;
