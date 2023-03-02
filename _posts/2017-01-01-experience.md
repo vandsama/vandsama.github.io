@@ -9,7 +9,8 @@ image: pexels-ömer-yılmaz-6726743-resized.jpg
 
 <h1> Experience </h1>
 
-## Intern Account Manager and Investment Operations Analyst
+## Intern Account Manager
+### Investment Operations
 [Westminster Financial Securities Inc.](https://www.westminsterfinancial.com/) **Dayton, OH** <br>
 *November 2020 – April 2022* <br>
 
@@ -25,7 +26,8 @@ image: pexels-ömer-yılmaz-6726743-resized.jpg
 </details>
 
 
-## Supplemental Instruction Leader of Business Statistics and Quantitative Business Modeling
+## Supplemental Instruction Leader
+### Business Statistics and Quantitative Business Modeling
 [Wright State University Tutoring Services Center](https://www.wright.edu/student-success/academic-support/tutoring-services) **Dayton, OH** <br>
 *August 2019 – July 2020* <br>
 
@@ -41,7 +43,8 @@ image: pexels-ömer-yılmaz-6726743-resized.jpg
 </details>  
   
   
-## Math Tutor of College Algebra, Business Statistics, and Quantitative Business Modeling
+## Math Tutor
+### College Algebra, Business Statistics, and Quantitative Business Modeling
 [Wright State University Math Learning Center](https://www.wright.edu/student-success/academic-support/math-learning-center) **Dayton, OH** <br>
 *August 2019 – April 2021* <br>
 
