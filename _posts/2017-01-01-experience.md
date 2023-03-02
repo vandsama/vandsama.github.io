@@ -11,10 +11,6 @@ image: pexels-ömer-yılmaz-6726743-resized.jpg
 
 ## Intern Account Manager
 ### Investment Operations
-<div class="containerExp">
-  <h2>Intern Account Manager</h2>
-  <h2>Investment Operations</h2>
-</div>
 [Westminster Financial Securities Inc.](https://www.westminsterfinancial.com/) **Dayton, OH** <br>
 *November 2020 – April 2022* <br>
 
@@ -65,13 +61,8 @@ image: pexels-ömer-yılmaz-6726743-resized.jpg
 
 
 <style>
-  .containerExp {
-    text-align:center;
-  }
-
-  h2 {
-    text-align:left;
-    display:inline-block;
+  h3 {
+    margin-top: 5px;
   }
 </style>
   
