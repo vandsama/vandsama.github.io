@@ -10,25 +10,44 @@ image: pexels-pavel-danilyuk-7942430-resized.jpg
 <h1> Education </h1>
 
 ## [BSB Finance](https://business.wright.edu/finance-and-financial-services/bachelor-of-science-in-business-finance-major)
-#### General Track
-### Wright State University, Dayton, Ohio <br>
+[Wright State University](https://www.wright.edu/)**Dayton, OH** <br>
 *August 2017 – April 2022* <br>
-## [BA French](https://liberal-arts.wright.edu/social-sciences-and-international-studies/bachelor-of-arts-in-french) 
-#### Minor in Arabic <br>
-### Wright State University, Dayton, Ohio <br>
+
+<details><summary>Details</summary>
+<p>
+■ General Track
+</p>
+</details>  
+
+## [BA French](https://liberal-arts.wright.edu/social-sciences-and-international-studies/bachelor-of-arts-in-french)
+[Wright State University](https://www.wright.edu/)**Dayton, OH** <br>
 *August 2012 – April 2017* <br>
 
+<details><summary>Details</summary>
+<p>
+■ Minor in Arabic
+</p>
+</details>  
 
 ## [Software Development Certificate](https://www.techelevator.com/)
-#### Full-stack Java Application
-### Tech Elevator Coding Bootcamp, Cincinnati, Ohio <br>
+[Tech Elevator Coding Bootcamp](https://www.techelevator.com/)**Cincinnati, OH** <br>
 *September 2022 – December 2022* <br>
 
+<details><summary>Details</summary>
+<p>
+■ Full-stack Java Application
+</p>
+</details>  
 
 ## [Diplôme de Français des Affaires](https://www.cidef.uco.fr/navigation/academics/certifications/certificates-7821.kjsp)
-#### Diploma of business French degree at C1 level
-### Centre International d'Études Françaises, Angers, France <br>
+[Centre International d'Études Françaises](https://www.cidef.uco.fr/)**Angers, France** <br>
 *August 2015 - December 2015* <br>
+
+<details><summary>Details</summary>
+<p>
+■ Diploma of business French degree at C1 level
+</p>
+</details>  
 
 <!-- 
 # Markdown Support
