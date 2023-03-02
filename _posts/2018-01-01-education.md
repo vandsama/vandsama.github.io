@@ -10,7 +10,7 @@ image: pexels-pavel-danilyuk-7942430-resized.jpg
 <h1> Education </h1>
 
 ## [BSB Finance](https://business.wright.edu/finance-and-financial-services/bachelor-of-science-in-business-finance-major)
-[Wright State University](https://www.wright.edu/)**Dayton, OH** <br>
+[Wright State University](https://www.wright.edu/) **Dayton, OH** <br>
 *August 2017 – April 2022* <br>
 
 <details><summary>Details</summary>
@@ -20,7 +20,7 @@ image: pexels-pavel-danilyuk-7942430-resized.jpg
 </details>  
 
 ## [BA French](https://liberal-arts.wright.edu/social-sciences-and-international-studies/bachelor-of-arts-in-french)
-[Wright State University](https://www.wright.edu/)**Dayton, OH** <br>
+[Wright State University](https://www.wright.edu/) **Dayton, OH** <br>
 *August 2012 – April 2017* <br>
 
 <details><summary>Details</summary>
@@ -30,7 +30,7 @@ image: pexels-pavel-danilyuk-7942430-resized.jpg
 </details>  
 
 ## [Software Development Certificate](https://www.techelevator.com/)
-[Tech Elevator Coding Bootcamp](https://www.techelevator.com/)**Cincinnati, OH** <br>
+[Tech Elevator Coding Bootcamp](https://www.techelevator.com/) **Cincinnati, OH** <br>
 *September 2022 – December 2022* <br>
 
 <details><summary>Details</summary>
@@ -40,7 +40,7 @@ image: pexels-pavel-danilyuk-7942430-resized.jpg
 </details>  
 
 ## [Diplôme de Français des Affaires](https://www.cidef.uco.fr/navigation/academics/certifications/certificates-7821.kjsp)
-[Centre International d'Études Françaises](https://www.cidef.uco.fr/)**Angers, France** <br>
+[Centre International d'Études Françaises](https://www.cidef.uco.fr/) **Angers, France** <br>
 *August 2015 - December 2015* <br>
 
 <details><summary>Details</summary>
