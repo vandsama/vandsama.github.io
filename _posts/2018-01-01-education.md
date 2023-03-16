@@ -6,48 +6,55 @@ categories: education
 tags: [sample]
 image: pexels-pavel-danilyuk-7942430-resized.jpg
 ---
-
 <h1> Education </h1>
 
 ## [BSB Finance](https://business.wright.edu/finance-and-financial-services/bachelor-of-science-in-business-finance-major)
-[Wright State University](https://www.wright.edu/) **Dayton, OH** <br>
-*August 2017 – April 2022* <br>
+### General Track
+<i class="fa-solid fa-school"></i> [Wright State University](https://www.wright.edu/) <br>
+<i class="fa-solid fa-location-pin"></i> **Dayton, Ohio** <br>
+<i class="fa-regular fa-calendar-days"></i> *August 2017 – April 2022* <br>
 
-<details><summary>Details</summary>
+<details><summary>Curriculum</summary>
 <p>
-■ General Track
+■ 
 </p>
 </details>  
 
 ## [BA French](https://liberal-arts.wright.edu/social-sciences-and-international-studies/bachelor-of-arts-in-french)
-[Wright State University](https://www.wright.edu/) **Dayton, OH** <br>
-*August 2012 – April 2017* <br>
+### Minor in Arabic
+<i class="fa-solid fa-school"></i> [Wright State University](https://www.wright.edu/) <br>
+<i class="fa-solid fa-location-pin"></i> **Dayton, Ohio** <br>
+<i class="fa-regular fa-calendar-days"></i> *August 2012 – April 2017* <br>
 
-<details><summary>Details</summary>
+<details><summary>Curriculum</summary>
 <p>
-■ Minor in Arabic
+■ 
 </p>
 </details>  
 
 ## [Software Development Certificate](https://www.techelevator.com/)
-[Tech Elevator Coding Bootcamp](https://www.techelevator.com/) **Cincinnati, OH** <br>
-*September 2022 – December 2022* <br>
+### Full-stack Java Application
+<i class="fa-solid fa-school"></i> [Tech Elevator Coding Bootcamp](https://www.techelevator.com/) <br>
+<i class="fa-solid fa-location-pin"></i> **Cincinnati, Ohio** <br>
+<i class="fa-regular fa-calendar-days"></i> *September 2022 – December 2022* <br>
 
-<details><summary>Details</summary>
+<details><summary>Curriculum</summary>
 <p>
-■ Full-stack Java Application
+■ 
 </p>
 </details>  
 
 ## [Diplôme de Français des Affaires](https://www.cidef.uco.fr/navigation/academics/certifications/certificates-7821.kjsp)
-[Centre International d'Études Françaises](https://www.cidef.uco.fr/) **Angers, France** <br>
-*August 2015 - December 2015* <br>
+### Diploma of Business French Degree at C1 Level
+<i class="fa-solid fa-school"></i> [Centre International d'Études Françaises](https://www.cidef.uco.fr/) <br>
+<i class="fa-solid fa-location-pin"></i> **Angers, France** <br>
+<i class="fa-regular fa-calendar-days"></i> *August 2015 - December 2015* <br>
 
-<details><summary>Details</summary>
+<details><summary>Curriculum</summary>
 <p>
-■ Diploma of business French degree at C1 level
+■ 
 </p>
-</details>  
+</details> 
 
 <!-- 
 # Markdown Support
