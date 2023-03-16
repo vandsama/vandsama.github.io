@@ -16,12 +16,12 @@ image: pexels-pavel-danilyuk-7942430-resized.jpg
 
 <details><summary>Curriculum</summary>
 <p>
-■ Financial Analysis
-■ Financial Reporting
-■ Accounting
-■ Business Analysis
-■ Data Analytics
-■ General Educational Requirements
+■ Financial Analysis <br>
+■ Financial Reporting <br>
+■ Accounting <br>
+■ Business Analysis <br>
+■ Data Analytics <br>
+■ General Educational Requirements <br>
 </p>
 </details>  
 
@@ -33,9 +33,9 @@ image: pexels-pavel-danilyuk-7942430-resized.jpg
 
 <details><summary>Curriculum</summary>
 <p>
-■ French Language
-■ Arabic Language
-■ General Education Requirements
+■ French Language <br>
+■ Arabic Language <br>
+■ General Education Requirements <br>
 </p>
 </details>  
 
@@ -47,13 +47,13 @@ image: pexels-pavel-danilyuk-7942430-resized.jpg
 
 <details><summary>Curriculum</summary>
 <p>
-■ Java Programming
-■ SQL Databases
-■ JavaScript
-■ SpringBoot 
-■ HTML, CSS, and Git  
-■ Vue.js, IntelliJ
-■ Unit Testing (JUnit), E/R diagrams, Integration Testing
+■ Java Programming <br>
+■ SQL Databases <br>
+■ JavaScript <br>
+■ SpringBoot <br>
+■ HTML, CSS, and Git <br>
+■ Vue.js, IntelliJ <br>
+■ Unit Testing (JUnit), E/R diagrams, Integration Testing <br>
 </p>
  
 </details>  
@@ -66,11 +66,11 @@ image: pexels-pavel-danilyuk-7942430-resized.jpg
 
 <details><summary>Curriculum</summary>
 <p>
-■ French Language
-■ French Art History
-■ French History
-■ French Political Science
-■ Extracurricular Courses
+■ French Language <br>
+■ French Art History <br>
+■ French History <br>
+■ French Political Science <br>
+■ Extracurricular Courses <br>
 </p>
 </details> 
 
