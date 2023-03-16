@@ -16,7 +16,12 @@ image: pexels-pavel-danilyuk-7942430-resized.jpg
 
 <details><summary>Curriculum</summary>
 <p>
-■ 
+■ Financial Analysis
+■ Financial Reporting
+■ Accounting
+■ Business Analysis
+■ Data Analytics
+■ General Educational Requirements
 </p>
 </details>  
 
@@ -28,7 +33,9 @@ image: pexels-pavel-danilyuk-7942430-resized.jpg
 
 <details><summary>Curriculum</summary>
 <p>
-■ 
+■ French Language
+■ Arabic Language
+■ General Education Requirements
 </p>
 </details>  
 
@@ -40,8 +47,15 @@ image: pexels-pavel-danilyuk-7942430-resized.jpg
 
 <details><summary>Curriculum</summary>
 <p>
-■ 
+■ Java Programming
+■ SQL Databases
+■ JavaScript
+■ SpringBoot 
+■ HTML, CSS, and Git  
+■ Vue.js, IntelliJ
+■ Unit Testing (JUnit), E/R diagrams, Integration Testing
 </p>
+ 
 </details>  
 
 ## [Diplôme de Français des Affaires](https://www.cidef.uco.fr/navigation/academics/certifications/certificates-7821.kjsp)
@@ -52,7 +66,11 @@ image: pexels-pavel-danilyuk-7942430-resized.jpg
 
 <details><summary>Curriculum</summary>
 <p>
-■ 
+■ French Language
+■ French Art History
+■ French History
+■ French Political Science
+■ Extracurricular Courses
 </p>
 </details> 
 
