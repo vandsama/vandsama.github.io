@@ -26,11 +26,11 @@ h4 {
   position: static;
   float: left;
   width: 20%;
-  padding-top: 10px;
+  padding-top: 8px;
 }
 
 .sidebarAndContent {
-  padding-top: $header-thickness+20px;
+  padding-top: $header-thickness+16px;
 }
 
 .sidebarAndContent a:hover {
@@ -57,7 +57,7 @@ h4 {
 }
 
 .featured-post {
-  height: 400px;
+  height: 380px;
   margin: 5px 10px 10px;
   background-position: center;
   background-repeat: no-repeat;
@@ -67,7 +67,7 @@ h4 {
 .featured-post h2 {
   bottom: 0;
   margin: 0;
-  padding: 10px;
+  padding: 8px;
   position: absolute;
 }
 .featured-post h2 span {
@@ -77,18 +77,18 @@ h4 {
   letter-spacing: -1px;
   background: rgb(0, 0, 0); /* fallback color */
   background: rgba(0, 0, 0, 0.7);
-  padding: 10px;
+  padding: 8x;
 }
 .featured-post span a {
   color: white;
 }
 .featured-post h1 {
-  margin: 10px;
+  margin: 8px;
 }
 
 
 .featured-image {
-  width: 200px;
+  width: 175px;
   margin: 5px 10px 10px;
   background-position: center;
   background-repeat: no-repeat;
@@ -98,7 +98,7 @@ h4 {
 .featured-image h2 {
   bottom: 0;
   margin: 0;
-  padding: 10px;
+  padding: 8px;
   position: absolute;
 }
 .featured-image h2 span {
@@ -108,13 +108,13 @@ h4 {
   letter-spacing: -1px;
   background: rgb(0, 0, 0); /* fallback color */
   background: rgba(0, 0, 0, 0.7);
-  padding: 10px;
+  padding: 8px;
 }
 .featured-image span a {
   color: white;
 }
 .featured-image h1 {
-  margin: 10px;
+  margin: 8px;
 }
 
 
