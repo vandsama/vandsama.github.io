@@ -6,6 +6,7 @@ categories: education
 tags: [sample]
 image: pexels-pavel-danilyuk-7942430-resized.jpg
 ---
+<html>
 <h1> Education </h1>
 
 <h2><a href="https://business.wright.edu/finance-and-financial-services/bachelor-of-science-in-business-finance-major">BSB Finance</a></h2>
@@ -58,34 +59,7 @@ image: pexels-pavel-danilyuk-7942430-resized.jpg
        ■ Arabic Language Minor <br>
        ■ General Education Requirements <br>
        </p>
-    </details
-</div>
-       
-       <h2><a href="https://liberal-arts.wright.edu/social-sciences-and-international-studies/bachelor-of-arts-in-french">BA French</a></h2>
-<div class="experience-wrapper">
-    <div class="experience-row">
-       <i class="fa-solid fa-school"></i> 
-       <p><a href="https://www.wright.edu/">Wright State University</a></p>
-    </div>
-    <div class="experience-row">
-       <i class="fa-solid fa-location-pin"></i> 
-       <p>Dayton, Ohio</p>
-    </div>
-    <div class="experience-row">
-       <i class="fa-regular fa-calendar-days"></i>
-       <p>August 2012 – April 2017</p>
-    </div>
-    <details><summary>Curriculum</summary>
-       <p>
-       ■ French Language <br>
-       ■ French Art History <br>
-       ■ French History <br>
-       ■ French Political Science <br>
-       ■ Extracurricular Courses <br>
-       ■ Arabic Language Minor <br>
-       ■ General Education Requirements <br>
-       </p>
-    </details
+   </details>
 </div>
 
 <h2><a href="https://www.techelevator.com/">Full-stack Java Application Bootcamp</a></h2>
@@ -137,3 +111,5 @@ image: pexels-pavel-danilyuk-7942430-resized.jpg
     </p>
     </details>
 </div>
+       
+       </html>
