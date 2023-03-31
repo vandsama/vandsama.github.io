@@ -6,7 +6,6 @@ categories: education
 tags: [sample]
 image: pexels-pavel-danilyuk-7942430-resized.jpg
 ---
-<html>
 <h1> Education </h1>
 
 <h2><a href="https://business.wright.edu/finance-and-financial-services/bachelor-of-science-in-business-finance-major">BSB Finance</a></h2>
@@ -114,5 +113,3 @@ image: pexels-pavel-danilyuk-7942430-resized.jpg
     </p>
     </details>
 </div>
-       
-       </html>
