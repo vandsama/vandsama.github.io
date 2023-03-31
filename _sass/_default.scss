@@ -347,8 +347,10 @@ bodyMov {
 /* Downloadable Resume Font Effects */
 
 .rainbow-text {
-  background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);   -webkit-background-clip: text;
+  background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);   
+  -webkit-background-clip: text;
   color: transparent;
+  font-size: 50px;
 }
 
 
