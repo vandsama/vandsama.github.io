@@ -36,7 +36,7 @@ image: pexels-ömer-yılmaz-6726743-resized.jpg
 <h3>Business Statistics and Quantitative Business Modeling</h3>
 <div class="experience-row">
    <div class="icon-wrapper"><i class="fa-solid fa-briefcase"></i></div> 
-   <p><a href="https://www.wright.edu/student-success/academic-support/tutoring-services"></a>Wright State University Tutoring Services Center</p>
+   <p><a href="https://www.wright.edu/student-success/academic-support/tutoring-services">Wright State University Tutoring Services Center</a></p>
 </div>
 <div class="experience-row">
    <div class="icon-wrapper"><i class="fa-solid fa-location-pin"></i></div>
@@ -59,7 +59,7 @@ image: pexels-ömer-yılmaz-6726743-resized.jpg
 <h3>College Algebra, Business Statistics, and Quantitative Business Modeling</h3>
 <div class="experience-row">
    <div class="icon-wrapper"><i class="fa-solid fa-briefcase"></i></div>
-   <p><a href="https://www.wright.edu/student-success/academic-support/math-learning-center">Wright State University Math Learning Center</a></p><br>
+   <p><a href="https://www.wright.edu/student-success/academic-support/math-learning-center">Wright State University Math Learning Center</a></p>
 </div>
 <div class="experience-row">
    <div class="icon-wrapper"><i class="fa-solid fa-location-pin"></i></div>
