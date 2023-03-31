@@ -346,11 +346,13 @@ bodyMov {
 
 /* Downloadable Resume Font Effects */
 
-.rainbow-text {
+.rainbow-text a:hover {
   background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);   
   -webkit-background-clip: text;
   color: transparent;
 }
+
+
 
 
 
