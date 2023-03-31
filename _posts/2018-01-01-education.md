@@ -73,4 +73,4 @@ image: pexels-pavel-danilyuk-7942430-resized.jpg
 ■ Extracurricular Courses <br>
 ■ C1 Level <br>
 </p>
-</details> 
+</details>
