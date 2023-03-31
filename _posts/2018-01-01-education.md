@@ -9,7 +9,6 @@ image: pexels-pavel-danilyuk-7942430-resized.jpg
 <h1> Education </h1>
 
 ## [BSB Finance](https://business.wright.edu/finance-and-financial-services/bachelor-of-science-in-business-finance-major)
-### General Track
 <i class="fa-solid fa-school"></i> [Wright State University](https://www.wright.edu/) <br>
 <i class="fa-solid fa-location-pin"></i> **Dayton, Ohio** <br>
 <i class="fa-regular fa-calendar-days"></i> *August 2017 – April 2022* <br>
@@ -26,7 +25,6 @@ image: pexels-pavel-danilyuk-7942430-resized.jpg
 </details>  
 
 ## [BA French](https://liberal-arts.wright.edu/social-sciences-and-international-studies/bachelor-of-arts-in-french)
-### Minor in Arabic
 <i class="fa-solid fa-school"></i> [Wright State University](https://www.wright.edu/) <br>
 <i class="fa-solid fa-location-pin"></i> **Dayton, Ohio** <br>
 <i class="fa-regular fa-calendar-days"></i> *August 2012 – April 2017* <br>
@@ -39,8 +37,7 @@ image: pexels-pavel-danilyuk-7942430-resized.jpg
 </p>
 </details>  
 
-## [Software Development Certificate](https://www.techelevator.com/)
-### Full-stack Java Application
+## [Full-stack Java Application Bootcamp](https://www.techelevator.com/)
 <i class="fa-solid fa-school"></i> [Tech Elevator Coding Bootcamp](https://www.techelevator.com/) <br>
 <i class="fa-solid fa-location-pin"></i> **Cincinnati, Ohio** <br>
 <i class="fa-regular fa-calendar-days"></i> *September 2022 – December 2022* <br>
@@ -58,8 +55,7 @@ image: pexels-pavel-danilyuk-7942430-resized.jpg
  
 </details>  
 
-## [Diplôme de Français des Affaires](https://www.cidef.uco.fr/navigation/academics/certifications/certificates-7821.kjsp)
-### Diploma of Business French Degree at C1 Level
+## [Diploma of Business French Degree](https://www.cidef.uco.fr/navigation/academics/certifications/certificates-7821.kjsp)
 <i class="fa-solid fa-school"></i> [Centre International d'Études Françaises](https://www.cidef.uco.fr/) <br>
 <i class="fa-solid fa-location-pin"></i> **Angers, France** <br>
 <i class="fa-regular fa-calendar-days"></i> *August 2015 - December 2015* <br>
@@ -71,6 +67,7 @@ image: pexels-pavel-danilyuk-7942430-resized.jpg
 ■ French History <br>
 ■ French Political Science <br>
 ■ Extracurricular Courses <br>
+■ C1 Level <br>
 </p>
 </details> 
 
