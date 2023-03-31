@@ -11,9 +11,9 @@ image: pexels-ömer-yılmaz-6726743-resized.jpg
 
 ## Intern Account Manager
 ### Investment Operations
-<div class="icon-wrapper><i class="fa-solid fa-briefcase"></i></div>[Westminster Financial Securities Inc.](https://www.westminsterfinancial.com/) <br>
-<div class="icon-wrapper><i class="fa-solid fa-location-pin"></i></div> **Dayton, OH** <br>
-<div class="icon-wrapper><i class="fa-regular fa-calendar-days"></i></div> *November 2020 – April 2022* <br>
+<div class="icon-wrapper"><i class="fa-solid fa-briefcase"></i></div>[Westminster Financial Securities Inc.](https://www.westminsterfinancial.com/) <br>
+<div class="icon-wrapper"><i class="fa-solid fa-location-pin"></i></div> **Dayton, OH** <br>
+<div class="icon-wrapper"><i class="fa-regular fa-calendar-days"></i></div> *November 2020 – April 2022* <br>
 
 <details><summary>Responsibilities</summary>
 <p>
@@ -28,9 +28,9 @@ image: pexels-ömer-yılmaz-6726743-resized.jpg
 
 ## Supplemental Instruction Leader
 ### Business Statistics and Quantitative Business Modeling
-<div class="icon-wrapper><i class="fa-solid fa-briefcase"></i></div> [Wright State University Tutoring Services Center](https://www.wright.edu/student-success/academic-support/tutoring-services) <br>
-<div class="icon-wrapper><i class="fa-solid fa-location-pin"></i></div> **Dayton, OH** <br>
-<div class="icon-wrapper><i class="fa-regular fa-calendar-days"></i></div> *August 2019 – July 2020* <br>
+<div class="icon-wrapper"><i class="fa-solid fa-briefcase"></i></div> [Wright State University Tutoring Services Center](https://www.wright.edu/student-success/academic-support/tutoring-services) <br>
+<div class="icon-wrapper"><i class="fa-solid fa-location-pin"></i></div> **Dayton, OH** <br>
+<div class="icon-wrapper"><i class="fa-regular fa-calendar-days"></i></div> *August 2019 – July 2020* <br>
 
 <details><summary>Responsibilities</summary>
 <p>
@@ -45,9 +45,9 @@ image: pexels-ömer-yılmaz-6726743-resized.jpg
 
 ## Math Tutor
 ### College Algebra, Business Statistics, and Quantitative Business Modeling
-<div class="icon-wrapper><i class="fa-solid fa-briefcase"></i></div> [Wright State University Math Learning Center](https://www.wright.edu/student-success/academic-support/math-learning-center) <br>
-<div class="icon-wrapper><i class="fa-solid fa-location-pin"></i></div> **Dayton, OH** <br>
-<div class="icon-wrapper><i class="fa-regular fa-calendar-days"></i></div> *August 2019 – April 2021* <br>
+<div class="icon-wrapper"><i class="fa-solid fa-briefcase"></i></div> [Wright State University Math Learning Center](https://www.wright.edu/student-success/academic-support/math-learning-center) <br>
+<div class="icon-wrapper"><i class="fa-solid fa-location-pin"></i></div> **Dayton, OH** <br>
+<div class="icon-wrapper"><i class="fa-regular fa-calendar-days"></i></div> *August 2019 – April 2021* <br>
 
 <details><summary>Responsibilities</summary>
 <p>  
