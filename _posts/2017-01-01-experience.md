@@ -26,7 +26,6 @@ image: pexels-ömer-yılmaz-6726743-resized.jpg
 </p>
 </details>
 
-
 ## Supplemental Instruction Leader
 ### Business Statistics and Quantitative Business Modeling
 <div class="icon-wrapper><i class="fa-solid fa-briefcase"></i></div> [Wright State University Tutoring Services Center](https://www.wright.edu/student-success/academic-support/tutoring-services) <br>
@@ -43,8 +42,7 @@ image: pexels-ömer-yılmaz-6726743-resized.jpg
 
 </p>
 </details>  
-  
-  
+
 ## Math Tutor
 ### College Algebra, Business Statistics, and Quantitative Business Modeling
 <div class="icon-wrapper><i class="fa-solid fa-briefcase"></i></div> [Wright State University Math Learning Center](https://www.wright.edu/student-success/academic-support/math-learning-center) <br>
@@ -60,6 +58,4 @@ image: pexels-ömer-yılmaz-6726743-resized.jpg
 ■ Encouraged learning on an individualized basis by determining measurable and attainable goals for each student <br>
 
 </p>
-</details>  
-  
-  
+</details>
