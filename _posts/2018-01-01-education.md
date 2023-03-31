@@ -22,7 +22,6 @@ image: pexels-pavel-danilyuk-7942430-resized.jpg
       <div class="icon-wrapper"><i class="fa-regular fa-calendar-days"></i></div>
       <p>August 2017 – April 2022</p>
    </div>
- </div>
   <details><summary>Curriculum</summary>
   <p>
   ■ Financial Analysis <br>
@@ -44,6 +43,7 @@ image: pexels-pavel-danilyuk-7942430-resized.jpg
     <div class="experience-row">
        <i class="fa-solid fa-location-pin"></i> 
        <p>Dayton, Ohio</p>
+    </div>
     <div class="experience-row">
        <i class="fa-regular fa-calendar-days"></i>
        <p>August 2012 – April 2017</p>
