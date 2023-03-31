@@ -92,13 +92,16 @@ image: pexels-pavel-danilyuk-7942430-resized.jpg
 <h2><a href="https://www.cidef.uco.fr/navigation/academics/certifications/certificates-7821.kjsp">Diploma of Business French Degree</a></h2>
 <div class="experience-wrapper">
     <div class="experience-row">
-       <i class="fa-solid fa-school"></i> [Centre International d'Études Françaises](https://www.cidef.uco.fr/) <br>
+       <i class="fa-solid fa-school"></i>
+       <p><a href="https://www.cidef.uco.fr/">Centre International d'Études Françaises</a></p>
     </div>
     <div class="experience-row">
-       <i class="fa-solid fa-location-pin"></i> **Angers, France** <br>
+       <i class="fa-solid fa-location-pin"></i>
+       <p>Angers, France</p>
     <div>
     <div class="experience-row">
-       <i class="fa-regular fa-calendar-days"></i> *August 2015 - December 2015* <br>
+       <i class="fa-regular fa-calendar-days"></i>
+       <p>August 2015 - December 2015</p>
     </div>
     <details><summary>Curriculum</summary>
     <p>
