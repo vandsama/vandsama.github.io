@@ -12,13 +12,16 @@ image: pexels-ömer-yılmaz-6726743-resized.jpg
 <h2>Intern Account Manager</h2>
 <h3>Investment Operations</h3>
 <div class="experience-row">
-   <div class="icon-wrapper"><i class="fa-solid fa-briefcase"></i></div>[Westminster Financial Securities Inc.](https://www.westminsterfinancial.com/)
+   <div class="icon-wrapper"><i class="fa-solid fa-briefcase"></i></div>
+   <p>[Westminster Financial Securities Inc.](https://www.westminsterfinancial.com/)</p>
 </div>
 <div class="experience-row">
-  <div class="icon-wrapper"><i class="fa-solid fa-location-pin"></i></div> **Dayton, OH**
+  <div class="icon-wrapper"><i class="fa-solid fa-location-pin"></i></div> 
+  <p>**Dayton, OH**</p>
 </div>
 <div class="experience-row">
-  <div class="icon-wrapper"><i class="fa-regular fa-calendar-days"></i></div> *November 2020 – April 2022*
+  <div class="icon-wrapper"><i class="fa-regular fa-calendar-days"></i></div>
+  <p>*November 2020 – April 2022*</p>
 </div>
 
 <details><summary>Responsibilities</summary>
