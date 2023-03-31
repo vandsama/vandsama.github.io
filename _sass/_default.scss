@@ -16,15 +16,12 @@ h2 {
 
 h3 {
   font-size: 14px;
+  color: rgba(0, 0, 0, 0.5);
 }
 
 h4 {
   font-size: 12px;
-}
-
-i {
-  padding-left: 3px;
-  padding-right: 3px;
+  color: rgba(0, 0, 0, 0.5);
 }
 
 .sidebar-wrapper {
@@ -135,33 +132,23 @@ i {
   margin-left: auto;
   margin-right: auto;
 }
-// .container a {
-//   text-decoration: underline;
-//   color:#FF0000;
-// }
+
 .content-wrapper {
   margin-left: 10px;
   display: block;
   position: static;
   float: right;
   width: 70%;
-
 }
+
 .post-content {
   max-width: 100%;
 }
 
 
-h3 {
-  color: rgba(0, 0, 0, 0.5);
-  font-size: 1.05rem;
-  margin-top: 5px;
-}
-
-
 /* Icons */
 .experience-row {
-  text-align: center;
+  text-align: -webkit-left;
 }
 
 .experience-row p {
@@ -169,7 +156,7 @@ h3 {
 }
 
 .icon-wrapper {
-  width: 10px;
+  width: 22px;
   text-align: center;
   display: inline-block;
 }
