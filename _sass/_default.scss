@@ -149,6 +149,8 @@ h4 {
 /* Icons */
 .experience-row {
   text-align: -webkit-left;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 
 .experience-row p {
@@ -160,6 +162,12 @@ h4 {
   width: 22px;
   text-align: center;
   display: inline-block;
+}
+
+details {
+  margin-top: 8px;
+  margin-bottom: 8px;
+  margin-left: 12px;
 }
 
 
