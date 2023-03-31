@@ -10,9 +10,9 @@ image: pexels-cottonbro-studio-7610808-resized.jpg
 <h1>About</h1>
 
 <h2>The Author</h2>
-<p>BSB in Finance from Wright State University '22 and BA in French Language from WSU '17. Experience as a math tutor, supplemental instructor of quantitative business methods, and intern account manager in investment operations while pursuing my BSB. Recent graduate of a 14-week software development boot-camp.</p>
+<p>My name is Samantha Vanderburgh and I have a BSB in Finance from Wright State University '22 and BA in French Language from WSU '17. I have experience as a math tutor, supplemental instructor of quantitative business methods, and intern account manager in investment operations while pursuing my BSB. I am a recent graduate of a software development boot-camp.</p>
 
-<h2 class="rainbow-text"><a href="./assets/Resume - Samantha Vanderburgh.pdf" download>Downloadable Resume</a></h2>
+<h2><a class="rainbow-text" href="./assets/Resume - Samantha Vanderburgh.pdf" download>Downloadable Resume</a></h2>
 <p><a href="./assets/Resume - Samantha Vanderburgh.pdf" download>Resume - Samantha Vanderburgh</a></p>
 
 <h2>Resources</h2>
