@@ -4,8 +4,6 @@ title: Experience
 permalink: /experience
 ---
 
-<h1> Experience </h1>
-
 <h2>Intern Account Manager</h2>
 <h3>Investment Operations</h3>
 <div class="experience-wrapper">
