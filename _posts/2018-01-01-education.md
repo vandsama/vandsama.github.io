@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Education"
 author: "Samantha Vanderburgh"
 categories: education
