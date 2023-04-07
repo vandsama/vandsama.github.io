@@ -1,6 +1,22 @@
-/*
-  Site container
-*/
+/* Site container */
+
+.container {
+  width: $container-width;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.content-wrapper {
+  margin-left: 10px;
+  display: block;
+  position: static;
+  float: right;
+  width: 70%;
+}
+
+.post-content {
+  max-width: 100%;
+}
 
 body {
   font-size: 12px;
@@ -26,6 +42,11 @@ h4 {
   font-size: 12px;
   color: rgba(0, 0, 0, 0.5);
 }
+
+
+
+
+/* Sidebar */
 
 .sidebar-wrapper {
   position: static;
@@ -97,7 +118,6 @@ h4 {
   margin: 8px;
 }
 
-
 .featured-image {
   height: 93.75px;
   width: 150px;
@@ -130,23 +150,6 @@ h4 {
 }
 
 
-.container {
-  width: $container-width;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.content-wrapper {
-  margin-left: 10px;
-  display: block;
-  position: static;
-  float: right;
-  width: 70%;
-}
-
-.post-content {
-  max-width: 100%;
-}
 
 
 /* Icons */
@@ -172,6 +175,22 @@ h4 {
   margin-bottom: 8px;
   margin-left: 12px;
 }
+
+
+/* Details Chevron */
+
+details summary { 
+  margin-top: 8px;
+  margin-bottom: 8px;
+  margin-left: 12px;
+}
+
+details summary > * {
+  width: 22px;
+  text-align: center;
+  display: inline-block;
+}
+
 
 
 /* Video */
@@ -398,9 +417,9 @@ bodyMov {
 }
 
 
-/* Details Chevron */
 
 
+/* Responsive Design */
 
 @media (max-width: $container-width) {
   .container {
