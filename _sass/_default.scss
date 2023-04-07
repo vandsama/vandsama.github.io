@@ -183,18 +183,11 @@ h4 {
 
 /* Details Chevron */
 
-details summary { 
-  margin-top: 8px;
-  margin-bottom: 8px;
-  margin-left: 12px;
-}
-
-details summary > * {
+summary::marker {
   width: 22px;
   text-align: center;
   display: inline-block;
 }
-
 
 
 /* Video */
