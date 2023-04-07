@@ -340,7 +340,45 @@ bodyMov {
   }
 }
 
-
+/* Language SKills Boxes */
+.grid-container {
+  display: grid;
+  grid-template-areas: 'left center right';
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: 80px;
+  grid-gap: 5px;
+  width: 360px;
+}
+.grid-left,
+.grid-center,
+.grid-right {
+      border-radius: 25px;
+      border: 2px solid #54b3d6;
+      display: grid;
+      align-items: start;
+      justify-content: center;
+      border-style: ridge;
+      width: 150px;
+      block-size: 150px;
+      margin: 15px;
+}
+.grid-left {
+      grid-area: left;
+}
+.grid-center{
+      grid-area: center;
+}
+.grid-right {
+      grid-area: right;
+}
+.level {
+        text-align: center;     
+        margin: auto;
+}
+.languages {
+        text-align: center; 
+        margin-top: 0;
+}
 
 
 
