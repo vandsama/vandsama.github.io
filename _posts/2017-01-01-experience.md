@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Experience"
 author: "Samantha Vanderburgh"
 categories: experience
