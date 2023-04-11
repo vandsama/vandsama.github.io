@@ -9,7 +9,7 @@ permalink: /experience
 <div class="experience-wrapper">
    <div class="experience-row">
       <div class="icon-wrapper"><i class="fa-solid fa-briefcase"></i></div>
-      <p><a href="https://www.westminsterfinancial.com/">Westminster Financial Securities Inc.</a></p>
+      <p><a href="https://www.westminsterfinancial.com/" target="_blank">Westminster Financial Securities Inc.</a></p>
    </div>
    <div class="experience-row">
      <div class="icon-wrapper"><i class="fa-solid fa-location-pin"></i></div> 
@@ -34,7 +34,7 @@ permalink: /experience
 <div class="experience-wrapper">
    <div class="experience-row">
       <div class="icon-wrapper"><i class="fa-solid fa-briefcase"></i></div> 
-      <p><a href="https://www.wright.edu/student-success/academic-support/tutoring-services">Wright State University Tutoring Services Center</a></p>
+      <p><a href="https://www.wright.edu/student-success/academic-support/tutoring-services" target="_blank">Wright State University Tutoring Services Center</a></p>
    </div>
    <div class="experience-row">
       <div class="icon-wrapper"><i class="fa-solid fa-location-pin"></i></div>
@@ -59,7 +59,7 @@ permalink: /experience
 <div class="experience-wrapper">
    <div class="experience-row">
       <div class="icon-wrapper"><i class="fa-solid fa-briefcase"></i></div>
-      <p><a href="https://www.wright.edu/student-success/academic-support/math-learning-center">Wright State University Math Learning Center</a></p>
+      <p><a href="https://www.wright.edu/student-success/academic-support/math-learning-center" target="_blank">Wright State University Math Learning Center</a></p>
    </div>
    <div class="experience-row">
       <div class="icon-wrapper"><i class="fa-solid fa-location-pin"></i></div>
