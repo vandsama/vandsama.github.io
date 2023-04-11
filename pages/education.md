@@ -20,12 +20,18 @@ permalink: /education
    </div>
   <details><summary>Curriculum</summary>
   <p>
-  ■ Financial Analysis <br>
-  ■ Financial Reporting <br>
-  ■ Accounting <br>
-  ■ Business Analysis <br>
-  ■ Data Analytics <br>
-  ■ General Educational Requirements <br>
+      <div class="summary-icon">■</div> 
+           <div class="summary-item">Financial Analysis</div>
+      <div class="summary-icon">■</div> 
+           <div class="summary-item">Financial Reporting</div>
+      <div class="summary-icon">■</div> 
+           <div class="summary-item">Accounting</div>
+      <div class="summary-icon">■</div>
+           <div class="summary-item">Business Analysis</div>
+      <div class="summary-icon">■</div>
+           <div class="summary-item">Data Analytics</div>
+      <div class="summary-icon">■</div>
+           <div class="summary-item">General Educational Requirements</div>
   </p>
   </details>  
 </div>
@@ -46,13 +52,20 @@ permalink: /education
     </div>
     <details><summary>Curriculum</summary>
        <p>
-       ■ French Language <br>
-       ■ French Art History <br>
-       ■ French History <br>
-       ■ French Political Science <br>
-       ■ Extracurricular Courses <br>
-       ■ Arabic Language Minor <br>
-       ■ General Education Requirements <br>
+         <div class="summary-icon">■</div> 
+              <div class="summary-item">French Language</div>
+         <div class="summary-icon">■</div> 
+              <div class="summary-item">French Art History</div>
+         <div class="summary-icon">■</div> 
+              <div class="summary-item">French History</div>
+         <div class="summary-icon">■</div>
+              <div class="summary-item">French Political Science</div>
+         <div class="summary-icon">■</div>
+              <div class="summary-item">Extracurricular Courses</div>
+         <div class="summary-icon">■</div>
+              <div class="summary-item">Arabic Language Minor</div>
+         <div class="summary-icon">■</div>
+              <div class="summary-item">General Education Requirements</div>
        </p>
    </details>
 </div>
@@ -73,13 +86,20 @@ permalink: /education
     </div>
     <details><summary>Curriculum</summary>
     <p>
-    ■ Java Programming <br>
-    ■ SQL Databases <br>
-    ■ JavaScript <br>
-    ■ SpringBoot <br>
-    ■ HTML, CSS, and Git <br>
-    ■ Vue.js, IntelliJ <br>
-    ■ Unit Testing (JUnit), E/R diagrams, Integration Testing <br>
+      <div class="summary-icon">■</div> 
+           <div class="summary-item">Java Programming</div>
+      <div class="summary-icon">■</div> 
+           <div class="summary-item">SQL Databases</div>
+      <div class="summary-icon">■</div> 
+           <div class="summary-item">JavaScript</div>
+      <div class="summary-icon">■</div>
+           <div class="summary-item">SpringBoot</div>
+      <div class="summary-icon">■</div>
+           <div class="summary-item">HTML, CSS, and Git</div>
+      <div class="summary-icon">■</div>
+           <div class="summary-item">Vue.js, IntelliJ</div>
+      <div class="summary-icon">■</div>
+           <div class="summary-item">Unit Testing (JUnit), E/R diagrams, Integration Testing</div>
     </p>
     </details>  
 </div>
@@ -100,12 +120,18 @@ permalink: /education
     </div>
     <details><summary>Curriculum</summary>
     <p>
-    ■ French Language <br>
-    ■ French Art History <br>
-    ■ French History <br>
-    ■ French Political Science <br>
-    ■ Extracurricular Courses <br>
-    ■ C1 Level <br>
+      <div class="summary-icon">■</div> 
+           <div class="summary-item">French Language</div>
+      <div class="summary-icon">■</div> 
+           <div class="summary-item">French Art History</div>
+      <div class="summary-icon">■</div> 
+           <div class="summary-item">French History</div>
+      <div class="summary-icon">■</div>
+           <div class="summary-item">French Political Science</div>
+      <div class="summary-icon">■</div>
+           <div class="summary-item">Extracurricular Courses</div>
+      <div class="summary-icon">■</div>
+           <div class="summary-item">Achieved C1 Level Certification</div>
     </p>
     </details>
 </div>
