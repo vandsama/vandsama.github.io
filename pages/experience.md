@@ -19,7 +19,7 @@ permalink: /experience
      <div class="icon-wrapper"><i class="fa-regular fa-calendar-days"></i></div>
      <p>November 2020 – April 2022</p>
    </div>
-   <details><summary>Responsibilities</summary>
+   <details><summary><div class="summary-title">Responsibilities</div></summary>
       <p>
          <div class="summary-icon">■</div> 
               <div class="summary-item">Reconciled various portfolio and account management operations for a business of >$0.5B in AUM and >9,000 accounts</div>
@@ -48,7 +48,7 @@ permalink: /experience
       <div class="icon-wrapper"><i class="fa-regular fa-calendar-days"></i></div>
       <p>August 2019 – July 2020</p>
    </div>
-   <details><summary>Responsibilities</summary>
+   <details><summary><div class="summary-title">Responsibilities</div></summary>
       <p>
          <div class="summary-icon">■</div> 
               <div class="summary-item">Developed and instructed weekly study and monthly exam review sessions for up to 60 students</div>
@@ -77,7 +77,7 @@ permalink: /experience
       <div class="icon-wrapper"><i class="fa-regular fa-calendar-days"></i></div>
       <p>August 2019 – April 2021</p>
    </div>
-   <details><summary>Responsibilities</summary>
+   <details><summary><div class="summary-title">Responsibilities</div></summary>
       <p>
          <div class="summary-icon">■</div> 
               <div class="summary-item">Assisted up to 100 students with math homework and exam preparation on both a walk-in and appointment basis</div>
