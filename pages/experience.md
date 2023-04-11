@@ -21,10 +21,14 @@ permalink: /experience
    </div>
    <details><summary>Responsibilities</summary>
       <p>
-      ■ Reconciled various portfolio and account management operations for a business of >$0.5B in AUM and >9,000 accounts <br>
-      ■ Automated daily trade blotters, transfers, funds, and options reports using Microsoft Excel VBA Macro programs <br>
-      ■ Provided account login and navigation support for clients and compiled portfolio performance reports for meetings <br>
-      ■ Updated weekly Investment Policy Committee presentations and company pitch presentations containing risk mitigation analysis <br>
+         <div class="summary-icon">■</div> 
+              <div class="summary-item">Reconciled various portfolio and account management operations for a business of >$0.5B in AUM and >9,000 accounts</div>
+         <div class="summary-icon">■</div> 
+              <div class="summary-item">Automated daily trade blotters, transfers, funds, and options reports using Microsoft Excel VBA Macro programs</div>
+         <div class="summary-icon">■</div> 
+              <div class="summary-item">Provided account navigation support for clients and compiled portfolio performance reports for meetings</div>
+         <div class="summary-icon">■</div>
+              <div class="summary-item">Updated weekly Investment Policy Committee presentations and company pitch presentations containing risk mitigation analysis</div>
       </p>
    </details>
 </div>
@@ -46,10 +50,14 @@ permalink: /experience
    </div>
    <details><summary>Responsibilities</summary>
       <p>
-      ■ Developed and instructed weekly study and monthly exam review sessions for up to 60 students <br>
-      ■ Reinforced topics including descriptive statistics, ad hoc analysis, hypothesis testing, probability, and forecasting <br>
-      ■ Provided support and communication with students to assist with coursework <br>
-      ■ Produced frequency maps of Supplemental Instruction for decision making purposes of management <br>
+         <div class="summary-icon">■</div> 
+              <div class="summary-item">Developed and instructed weekly study and monthly exam review sessions for up to 60 students</div>
+         <div class="summary-icon">■</div> 
+              <div class="summary-item">Reinforced topics including descriptive statistics, ad hoc analysis, hypothesis testing, probability, and forecasting</div>
+         <div class="summary-icon">■</div> 
+              <div class="summary-item">Provided support and communication with students to assist with coursework</div>
+         <div class="summary-icon">■</div>
+              <div class="summary-item">Produced frequency maps of Supplemental Instruction for decision making purposes of management</div>
       </p>
    </details>  
 </div>
@@ -71,10 +79,14 @@ permalink: /experience
    </div>
    <details><summary>Responsibilities</summary>
       <p>
-      ■ Assisted up to 100 students with math homework and exam preparation on both a walk-in and appointment basis <br>
-      ■ Worked in tandem with course instructors to stay updated on course curriculum <br>
-      ■ Developed study skills for continuous learning of students by practicing established study techniques <br>
-      ■ Encouraged learning on an individualized basis by determining measurable and attainable goals for each student <br>
+         <div class="summary-icon">■</div> 
+              <div class="summary-item">Assisted up to 100 students with math homework and exam preparation on both a walk-in and appointment basis</div>
+         <div class="summary-icon">■</div> 
+              <div class="summary-item">Worked in tandem with course instructors to stay updated on course curriculum</div>
+         <div class="summary-icon">■</div> 
+              <div class="summary-item">Developed study skills for continuous learning of students by practicing established study techniques</div>
+         <div class="summary-icon">■</div>
+              <div class="summary-item">Encouraged learning on an individualized basis by determining measurable and attainable goals for each student</div>
       </p>
    </details>
 </div>
