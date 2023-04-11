@@ -20,18 +20,28 @@ permalink: /education
    </div>
    <details><summary><div class="summary-title">Curriculum</div></summary>
      <p>
-         <div class="summary-icon">■</div> 
-              <div class="summary-item">Financial Analysis</div>
-         <div class="summary-icon">■</div> 
-              <div class="summary-item">Financial Reporting</div>
-         <div class="summary-icon">■</div> 
-              <div class="summary-item">Accounting</div>
-         <div class="summary-icon">■</div>
+         <div class="summary-row">
+            <div class="summary-icon">■</div> 
+            <div class="summary-item">Financial Analysis</div>
+         </div>
+            <div class="summary-icon">■</div> 
+            <div class="summary-item">Financial Reporting</div>
+         <div class="summary-row">
+             div class="summary-icon">■</div> 
+             <div class="summary-item">Accounting</div>
+         </div>
+         <div class="summary-row">  
+              <div class="summary-icon">■</div>
               <div class="summary-item">Business Analysis</div>
-         <div class="summary-icon">■</div>
+         </div>
+         <div class="summary-row">
+              <div class="summary-icon">■</div>
               <div class="summary-item">Data Analytics</div>
-         <div class="summary-icon">■</div>
+         </div>
+         <div class="summary-row">
+              <div class="summary-icon">■</div>
               <div class="summary-item">General Educational Requirements</div>
+         </div>
      </p>
   </details>  
 </div>
@@ -52,20 +62,35 @@ permalink: /education
     </div>
     <details><summary><div class="summary-title">Curriculum</div></summary>
        <p>
-         <div class="summary-icon">■</div> 
+
+         <div class="summary-row">
+            <div class="summary-icon">■</div> 
               <div class="summary-item">French Language</div>
-         <div class="summary-icon">■</div> 
-              <div class="summary-item">French Art History</div>
-         <div class="summary-icon">■</div> 
+         </div>
+         <div class="summary-row">
+             <div class="summary-icon">■</div> 
+              <div class="summary-item">French Art History</div>  
+         </div>
+         <div class="summary-row">
+               <div class="summary-icon">■</div> 
               <div class="summary-item">French History</div>
-         <div class="summary-icon">■</div>
+         </div>
+         <div class="summary-row">
+               <div class="summary-icon">■</div>
               <div class="summary-item">French Political Science</div>
-         <div class="summary-icon">■</div>
+         </div>
+         <div class="summary-row">
+            <div class="summary-icon">■</div>
               <div class="summary-item">Extracurricular Courses</div>
-         <div class="summary-icon">■</div>
+         </div>
+         <div class="summary-row">
+               <div class="summary-icon">■</div>
               <div class="summary-item">Arabic Language Minor</div>
-         <div class="summary-icon">■</div>
+         </div>
+         <div class="summary-row">
+              <div class="summary-icon">■</div>
               <div class="summary-item">General Education Requirements</div>
+         </div>
        </p>
    </details>
 </div>
@@ -86,20 +111,34 @@ permalink: /education
     </div>
     <details><summary><div class="summary-title">Curriculum</div></summary>
     <p>
-      <div class="summary-icon">■</div> 
+         <div class="summary-row">
+            <div class="summary-icon">■</div> 
            <div class="summary-item">Java Programming</div>
-      <div class="summary-icon">■</div> 
+         </div>
+         <div class="summary-row">
+            <div class="summary-icon">■</div> 
            <div class="summary-item">SQL Databases</div>
-      <div class="summary-icon">■</div> 
+         </div>
+         <div class="summary-row">
+            <div class="summary-icon">■</div> 
            <div class="summary-item">JavaScript</div>
-      <div class="summary-icon">■</div>
+         </div>
+         <div class="summary-row">
+           <div class="summary-icon">■</div>
            <div class="summary-item">SpringBoot</div>
-      <div class="summary-icon">■</div>
+         </div>
+         <div class="summary-row">
+             <div class="summary-icon">■</div>
            <div class="summary-item">HTML, CSS, and Git</div>
-      <div class="summary-icon">■</div>
+         </div>
+         <div class="summary-row">
+             <div class="summary-icon">■</div>
            <div class="summary-item">Vue.js, IntelliJ</div>
-      <div class="summary-icon">■</div>
+         </div>
+         <div class="summary-row">
+                  <div class="summary-icon">■</div>
            <div class="summary-item">Unit Testing (JUnit), E/R diagrams, Integration Testing</div>
+         </div>
     </p>
     </details>  
 </div>
@@ -120,18 +159,30 @@ permalink: /education
     </div>
     <details><summary><div class="summary-title">Curriculum</div></summary>
     <p>
-      <div class="summary-icon">■</div> 
-           <div class="summary-item">French Language</div>
-      <div class="summary-icon">■</div> 
-           <div class="summary-item">French Art History</div>
-      <div class="summary-icon">■</div> 
-           <div class="summary-item">French History</div>
-      <div class="summary-icon">■</div>
+         <div class="summary-row">
+              <div class="summary-icon">■</div> 
+               <div class="summary-item">French Language</div>
+         </div>       
+         <div class="summary-row">
+              <div class="summary-icon">■</div> 
+              <div class="summary-item">French Art History</div>
+         </div>
+         <div class="summary-row">
+              <div class="summary-icon">■</div> 
+               <div class="summary-item">French History</div>
+         </div>
+         <div class="summary-row">
+            <div class="summary-icon">■</div>
            <div class="summary-item">French Political Science</div>
-      <div class="summary-icon">■</div>
-           <div class="summary-item">Extracurricular Courses</div>
-      <div class="summary-icon">■</div>
+         </div>
+         <div class="summary-row">
+               <div class="summary-icon">■</div>
+                <div class="summary-item">Extracurricular Courses</div>
+         </div>
+         <div class="summary-row">
+             <div class="summary-icon">■</div>
            <div class="summary-item">Achieved C1 Level Certification</div>
+         </div>
     </p>
     </details>
 </div>
