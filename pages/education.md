@@ -24,8 +24,10 @@ permalink: /education
             <div class="summary-icon">■</div> 
             <div class="summary-item">Financial Analysis</div>
          </div>
+         <div class="summary-row">
             <div class="summary-icon">■</div> 
             <div class="summary-item">Financial Reporting</div>
+         </div>
          <div class="summary-row">
              <div class="summary-icon">■</div> 
              <div class="summary-item">Accounting</div>
