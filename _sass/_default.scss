@@ -172,12 +172,23 @@ h4 {
 .experience-wrapper details {
   margin-top: 5px;
   margin-bottom: 5px;
-  margin-left: 9px;
 }
 
 summary::marker {
   text-align: center;
   display: inline-block;
+}
+
+summary {
+  margin-left: 9px;
+}
+
+summary p {
+  margin-left: 10px;
+}
+
+summary #text {
+  margin-left: 20px;
 }
 
 
