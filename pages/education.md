@@ -4,11 +4,11 @@ title: Education
 permalink: /education
 ---
 
-<h2><a href="https://business.wright.edu/finance-and-financial-services/bachelor-of-science-in-business-finance-major">BSB Finance</a></h2>
+<h2><a href="https://business.wright.edu/finance-and-financial-services/bachelor-of-science-in-business-finance-major" target="_blank">BSB Finance</a></h2>
 <div class="experience-wrapper">
    <div class="experience-row">
       <div class="icon-wrapper"><i class="fa-solid fa-school"></i></div>
-      <p><a href="https://www.wright.edu/">Wright State University</a></p>
+      <p><a href="https://www.wright.edu/" target="_blank">Wright State University</a></p>
    </div>
    <div class="experience-row">
       <div class="icon-wrapper"><i class="fa-solid fa-location-pin"></i></div>
@@ -30,11 +30,11 @@ permalink: /education
   </details>  
 </div>
 
-<h2><a href="https://liberal-arts.wright.edu/social-sciences-and-international-studies/bachelor-of-arts-in-french">BA French</a></h2>
+<h2><a href="https://liberal-arts.wright.edu/social-sciences-and-international-studies/bachelor-of-arts-in-french" target="_blank">BA French</a></h2>
 <div class="experience-wrapper">
     <div class="experience-row">
        <div class="icon-wrapper"><i class="fa-solid fa-school"></i></div>
-       <p><a href="https://www.wright.edu/">Wright State University</a></p>
+       <p><a href="https://www.wright.edu/" target="_blank">Wright State University</a></p>
     </div>
     <div class="experience-row">
        <div class="icon-wrapper"><i class="fa-solid fa-location-pin"></i></div>
@@ -57,11 +57,11 @@ permalink: /education
    </details>
 </div>
 
-<h2><a href="https://www.techelevator.com/">Full-stack Java Application Bootcamp</a></h2>
+<h2><a href="https://www.techelevator.com/" target="_blank">Full-stack Java Application Bootcamp</a></h2>
 <div class="experience-wrapper">
     <div class="experience-row">
        <div class="icon-wrapper"><i class="fa-solid fa-school"></i></div>
-       <p><a href="https://www.techelevator.com/">Tech Elevator Coding Bootcamp</a></p>
+       <p><a href="https://www.techelevator.com/" target="_blank">Tech Elevator Coding Bootcamp</a></p>
     </div>
     <div class="experience-row">
        <div class="icon-wrapper"><i class="fa-solid fa-location-pin"></i></div>
@@ -84,11 +84,11 @@ permalink: /education
     </details>  
 </div>
 
-<h2><a href="https://www.cidef.uco.fr/navigation/academics/certifications/certificates-7821.kjsp">Diploma of Business French Degree</a></h2>
+<h2><a href="https://www.cidef.uco.fr/navigation/academics/certifications/certificates-7821.kjsp" target="_blank">Diploma of Business French Degree</a></h2>
 <div class="experience-wrapper">
     <div class="experience-row">
        <div class="icon-wrapper"><i class="fa-solid fa-school"></i></div>
-       <p><a href="https://www.cidef.uco.fr/">Centre International d'Études Françaises</a></p>
+       <p><a href="https://www.cidef.uco.fr/" target="_blank">Centre International d'Études Françaises</a></p>
     </div>
     <div class="experience-row">
        <div class="icon-wrapper"><i class="fa-solid fa-location-pin"></i></div>
