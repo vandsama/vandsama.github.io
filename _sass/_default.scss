@@ -183,14 +183,19 @@ summary {
   margin-left: 9px;
 }
 
-summary p {
+// summary p {
+//   margin-left: 10px;
+// }
+
+.summary-icon {
+  display: inline-block;
   margin-left: 10px;
 }
 
-summary #text {
-  margin-left: 20px;
+.summary-item {
+  display: inline-block;  
+  margin-left: 10px;
 }
-
 
 
 
