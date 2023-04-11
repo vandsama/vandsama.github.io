@@ -18,21 +18,21 @@ permalink: /education
       <div class="icon-wrapper"><i class="fa-regular fa-calendar-days"></i></div>
       <p>August 2017 – April 2022</p>
    </div>
-  <details><summary>Curriculum</summary>
-  <p>
-      <div class="summary-icon">■</div> 
-           <div class="summary-item">Financial Analysis</div>
-      <div class="summary-icon">■</div> 
-           <div class="summary-item">Financial Reporting</div>
-      <div class="summary-icon">■</div> 
-           <div class="summary-item">Accounting</div>
-      <div class="summary-icon">■</div>
-           <div class="summary-item">Business Analysis</div>
-      <div class="summary-icon">■</div>
-           <div class="summary-item">Data Analytics</div>
-      <div class="summary-icon">■</div>
-           <div class="summary-item">General Educational Requirements</div>
-  </p>
+   <details><summary><div class="summary-title">Curriculum</div></summary>
+     <p>
+         <div class="summary-icon">■</div> 
+              <div class="summary-item">Financial Analysis</div>
+         <div class="summary-icon">■</div> 
+              <div class="summary-item">Financial Reporting</div>
+         <div class="summary-icon">■</div> 
+              <div class="summary-item">Accounting</div>
+         <div class="summary-icon">■</div>
+              <div class="summary-item">Business Analysis</div>
+         <div class="summary-icon">■</div>
+              <div class="summary-item">Data Analytics</div>
+         <div class="summary-icon">■</div>
+              <div class="summary-item">General Educational Requirements</div>
+     </p>
   </details>  
 </div>
 
@@ -50,7 +50,7 @@ permalink: /education
        <div class="icon-wrapper"><i class="fa-regular fa-calendar-days"></i></div>
        <p>August 2012 – April 2017</p>
     </div>
-    <details><summary>Curriculum</summary>
+    <details><summary><div class="summary-title">Curriculum</div></summary>
        <p>
          <div class="summary-icon">■</div> 
               <div class="summary-item">French Language</div>
@@ -84,7 +84,7 @@ permalink: /education
        <div class="icon-wrapper"><i class="fa-regular fa-calendar-days"></i></div>
        <p>September 2022 – December 2022</p>
     </div>
-    <details><summary>Curriculum</summary>
+    <details><summary><div class="summary-title">Curriculum</div></summary>
     <p>
       <div class="summary-icon">■</div> 
            <div class="summary-item">Java Programming</div>
@@ -118,7 +118,7 @@ permalink: /education
        <div class="icon-wrapper"><i class="fa-regular fa-calendar-days"></i></div>
        <p>August 2015 - December 2015</p>
     </div>
-    <details><summary>Curriculum</summary>
+    <details><summary><div class="summary-title">Curriculum</div></summary>
     <p>
       <div class="summary-icon">■</div> 
            <div class="summary-item">French Language</div>
