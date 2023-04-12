@@ -1,3 +1,19 @@
+.site-header {
+  width: $container-width;
+  margin-left: auto;
+  margin-right: auto;
+  position: fixed;
+  background-color: white;
+  box-shadow: 0 5px 6px -6px #bbb;
+  z-index: 100;
+}
+
+.header {
+  width: $container-width;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .menu-list {
   display: inline-flex;
   margin: 10px;
@@ -15,6 +31,8 @@
   
 .site-title {
   margin: 10px;
+  font-size: 20px;
+  font-weight: 400;
 }
 
 // .site-header {
