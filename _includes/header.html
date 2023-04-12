@@ -1,12 +1,20 @@
 <header class="site-header">
   <nav>
-    <div  class="menu-list">
-      <h3 class="site-title"><a href="{{ site.github.url }}/">{{ site.title }}</a></h3>
-      <h6 class="menu-item">Highlights</h6>
-      <h6 class="menu-item"><a href="https://vandsama.github.io/project0/index.html" class="menu-link">Google Search Project</a></h6>
-      <h6 class="menu-item"><a href="https://github.com/vandsama/tech.elevator.final.capstone.pet.pals" class="menu-link">Pet Pals Playdate Website</a></h6>
+    <div class="menu-list">
+      <div class="site-title">
+        <h3><a href="{{ site.github.url }}/">{{ site.title }}</a></h3>
+      </div>
+      <div class="menu-items">
+        <h6>Highlights</h6>
+        <h6 class="menu-item"><a href="https://vandsama.github.io/project0/index.html" class="menu-link">Google Search Project</a></h6>
+        <h6 class="menu-item"><a href="https://github.com/vandsama/tech.elevator.final.capstone.pet.pals" class="menu-link">Pet Pals Playdate Website</a></h6>
+      </div>
     </div>
-    
+   </nav>
+</header>
+
+
+
 <!--      
     {% for item in site.data.settings.menu %}
       <a href="{{ site.github.url }}/{{ item.url }}" class="menu-link">{{ item.name }}</a>
@@ -16,7 +24,7 @@
     {% endfor %} 
 -->
     
-  </nav>
+
   
   
 <!--
@@ -32,8 +40,3 @@
     </div> 
   </div>
 -->
-  
-  
-
-</header>
-
