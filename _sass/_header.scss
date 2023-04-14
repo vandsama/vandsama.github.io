@@ -15,8 +15,8 @@
 }
 
 .menu-list {
+  width: $container-width;
   display: inline-flex;
-  margin: 10px;
 }
 
 .menu-items {
@@ -30,7 +30,6 @@
 }
   
 .site-title {
-  margin: 10px;
   font-size: 20px;
   font-weight: 400;
 }
