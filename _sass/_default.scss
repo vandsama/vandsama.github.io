@@ -43,7 +43,9 @@ h4 {
   color: rgba(0, 0, 0, 0.5);
 }
 
-
+.sidebarAndContent {
+  padding-top: $header-thickness;
+}
 
 
 /* Sidebar */
@@ -59,32 +61,6 @@ h4 {
   width: 150px;
 }
 
-.sidebarAndContent {
-  padding-top: $header-thickness;
-}
-
-.rainbow-underline:hover {
-   background-size: 0 3px, 100% 3px;
- }
-
-.rainbow-underline a {
-  background:
-    linear-gradient(
-      to right,
-      rgba(100, 200, 200, 1),
-      rgba(100, 200, 200, 1)
-    ),
-    linear-gradient(
-      to right,
-      rgba(255, 0, 0, 1),
-      rgba(255, 0, 180, 1),
-      rgba(0, 100, 200, 1)
-  );
-  background-size: 100% 3px, 0 3px;
-  background-position: 100% 100%, 0 100%;
-  background-repeat: no-repeat;
-  transition: background-size 400ms;
-}
 .featured-post {
   height: 93.75px;
   width: 150px;
@@ -147,6 +123,31 @@ h4 {
 }
 
 
+/* Raibow Underline Link Effect */
+
+.rainbow-underline:hover {
+   background-size: 0 3px, 100% 3px;
+ }
+
+.rainbow-underline a {
+  background:
+    linear-gradient(
+      to right,
+      rgba(100, 200, 200, 1),
+      rgba(100, 200, 200, 1)
+    ),
+    linear-gradient(
+      to right,
+      rgba(255, 0, 0, 1),
+      rgba(255, 0, 180, 1),
+      rgba(0, 100, 200, 1)
+  );
+  background-size: 100% 3px, 0 3px;
+  background-position: 100% 100%, 0 100%;
+  background-repeat: no-repeat;
+  transition: background-size 400ms;
+}
+
 
 
 /* Icons */
@@ -166,6 +167,8 @@ h4 {
   text-align: center;
   display: inline-block;
 }
+
+
 
 /* Details & Detail Chevron */
 
