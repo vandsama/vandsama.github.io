@@ -17,11 +17,12 @@
 .menu-list {
   width: $container-width;
   display: inline-flex;
+  align-items: center;
+  justify-content: space-around;
 }
 
 .menu-items {
   display: inline-flex;
-  margin-left: 150px;
 }
 
 .menu-item {
