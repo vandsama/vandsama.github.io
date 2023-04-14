@@ -7,7 +7,7 @@ permalink: /about
 <h2>The Author</h2>
 <p>BSB in Finance from Wright State University '22 and BA in French Language WSU '17. Experience as a math tutor, supplemental instructor of quantitative business methods, and intern account manager in investment operations while pursuing my BSB. Recent graduate of a software development boot-camp in Java and currently learning Python while job searching.</p>
 
-<a id="rainbow-text" href="./assets/Resume - Samantha Vanderburgh.pdf" download>Downloadable Resume</a>
+<a class="rainbow-text" href="./assets/Resume - Samantha Vanderburgh.pdf" download>Downloadable Resume</a>
 
 <h2>Resources</h2>
 <p>This website is hosted on GitHub and was created using CSS and HTML along with the following resources:</p>
