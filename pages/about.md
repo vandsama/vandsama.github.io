@@ -13,16 +13,16 @@ permalink: /about
 <p>This website is hosted on GitHub and was created using CSS and HTML along with the following resources:</p>
 
 <h4>Base Layout</h4>
-<p><a href="https://github.com/LeNPaul/Millennial" target="_blank">"Millenial Webpage Layout"</a> by Paul Le</p>
+<p><a class="rainbow-underline" href="https://github.com/LeNPaul/Millennial" target="_blank">"Millenial Webpage Layout"</a> by Paul Le</p>
 
 <h4>Squares Component</h4>
-<p><a href="https://stackoverflow.com/questions/46351635/how-to-bring-a-text-at-the-center-of-a-square-box-in-html-css" target="_blank">"How to bring a text at the center of a square box in HTML/CSS?"</a> on Stack Overflow</p>
+<p><a class="rainbow-underline" href="https://stackoverflow.com/questions/46351635/how-to-bring-a-text-at-the-center-of-a-square-box-in-html-css" target="_blank">"How to bring a text at the center of a square box in HTML/CSS?"</a> on Stack Overflow</p>
 
 <h4>Hover Component - Underline Gradient</h4>
-<p><a href="https://css-tricks.com/css-link-hover-effects/" target="_blank">"6 Creative Ideas for CSS Link Hover Effects"</a> by Harshil Patel</p>
+<p><a class="rainbow-underline" href="https://css-tricks.com/css-link-hover-effects/" target="_blank">"6 Creative Ideas for CSS Link Hover Effects"</a> by Harshil Patel</p>
   
  <h4>Hover Component - Rainbow Text</h4>
- <p><a href="https://dev.to/thecodepixi/how-to-create-a-link-rainbow-hover-effect-45of" target="_blank">"How To: Create A Rainbow Link Hover Effect"</a> by Emmy | Pixi</p>
+ <p><a class="rainbow-underline" href="https://dev.to/thecodepixi/how-to-create-a-link-rainbow-hover-effect-45of" target="_blank">"How To: Create A Rainbow Link Hover Effect"</a> by Emmy | Pixi</p>
 
 <h4>Video Component</h4>
-<p><a href="https://codemyui.com/video-preview-button-with-expand-on-hover-and-full-screen-on-click/" target="_blank">"Video Preview Button With Expand On Hover And Full Screen On Click"</a> by Saijo George</p>
+<p><a class="rainbow-underline" href="https://codemyui.com/video-preview-button-with-expand-on-hover-and-full-screen-on-click/" target="_blank">"Video Preview Button With Expand On Hover And Full Screen On Click"</a> by Saijo George</p>
