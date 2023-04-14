@@ -63,11 +63,11 @@ h4 {
   padding-top: $header-thickness;
 }
 
-.sidebarAndContent a:hover {
+.rainbow-underline:hover {
    background-size: 0 3px, 100% 3px;
  }
 
-.sidebarAndContent a {
+.rainbow-underline a {
   background:
     linear-gradient(
       to right,
