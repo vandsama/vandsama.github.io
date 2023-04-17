@@ -97,11 +97,11 @@ permalink: /education
    </details>
 </div>
 
-<h2><a class="rainbow-underline" href="https://www.techelevator.com/" target="_blank">Full-stack Java Application Bootcamp</a></h2>
+<h2><a class="rainbow-underline" href="https://www.techelevator.com/" target="_blank">Coding Bootcamp</a></h2>
 <div class="experience-wrapper">
     <div class="experience-row">
        <div class="icon-wrapper"><i class="fa-solid fa-school"></i></div>
-       <p><a class="rainbow-underline" href="https://www.techelevator.com/" target="_blank">Tech Elevator Coding Bootcamp</a></p>
+       <p><a class="rainbow-underline" href="https://www.techelevator.com/" target="_blank">Tech Elevator</a></p>
     </div>
     <div class="experience-row">
        <div class="icon-wrapper"><i class="fa-solid fa-location-pin"></i></div>
@@ -115,7 +115,7 @@ permalink: /education
        <p>
             <div class="summary-row">
                <div class="summary-icon">■</div> 
-              <div class="summary-item">Java Programming</div>
+              <div class="summary-item">Full-Stack Java Programming</div>
             </div>
             <div class="summary-row">
                <div class="summary-icon">■</div> 
@@ -145,7 +145,7 @@ permalink: /education
     </details>  
 </div>
 
-<h2><a class="rainbow-underline" href="https://www.cidef.uco.fr/navigation/academics/certifications/certificates-7821.kjsp" target="_blank">Diploma of Business French Degree</a></h2>
+<h2><a class="rainbow-underline" href="https://www.cidef.uco.fr/navigation/academics/certifications/certificates-7821.kjsp" target="_blank">French Certificate</a></h2>
 <div class="experience-wrapper">
     <div class="experience-row">
        <div class="icon-wrapper"><i class="fa-solid fa-school"></i></div>
