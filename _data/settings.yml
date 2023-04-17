@@ -7,12 +7,12 @@ disqus:
 # google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Skills',     url: 'skills'}
-- {name: 'Projects',   url: 'projects'}
-- {name: 'Education',  url: 'education'}
-- {name: 'Experience', url: 'experience'}
-- {name: 'About',      url: 'about'}
-- {name: 'Contact',    url: 'contact'}
+- {name: 'Google Search Project',     url: 'https://vandsama.github.io/project0/index.html'}
+- {name: 'Pet Pals Playdate Website',   url: 'https://github.com/vandsama/tech.elevator.final.capstone.pet.pals'}
+# - {name: 'Education',  url: 'education'}
+# - {name: 'Experience', url: 'experience'}
+# - {name: 'About',      url: 'about'}
+# - {name: 'Contact',    url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 # social:
