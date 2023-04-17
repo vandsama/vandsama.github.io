@@ -1,57 +1,11 @@
 .site-header {
-  width: $container-width;
   min-height: 56px;
-  margin-left: auto;
-  margin-right: auto;
+  width: $container-width;
   position: fixed;
   background-color: white;
   box-shadow: 0 5px 6px -6px #bbb;
   z-index: 100;
-  display: inline-flex;
 }
-
-.header {
-  width: $container-width;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.site-title {
-  font-size: 20px;
-  font-weight: 400;
-  line-height: 56px;
-  margin-bottom: 0;
-  margin-top: 0;
-  padding-left: 10px;
-  float: left;
-}
-
-.menu-list {
-  width: $container-width;
-  display: inline-flex;
-  align-items: center;
-  justify-content: space-around;
-  line-height: $header-thickness;
-  text-align: center;
-}
-
-.menu-title {
-  margin-left: 30px;
-  margin-right: 30px;
-}
-
-.menu-link {
-  text-align: center;
-}
-
-.menu-item a {
-  font-size: 14px;
-}
-  
-
-
-
-
 @media (max-width: $container-width) {
   .site-header {
     min-height: 56px;
@@ -65,63 +19,22 @@
 .site-header a {
   text-decoration: none;
 }
-
-
-
-
-.site-header a {
-  background-image: linear-gradient(
-    to left,
-    #54b3d6,
-    #54b3d6 50%,
-    #000 50%
-  );
-  background-size: 200% 100%;
-  background-position: -100%;
-  display: inline-block;
-  padding: 0px 1px;
-  position: relative;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  transition: all 0.3s ease-in-out;
+.site-title {
+  font-size: 26px;
+  font-weight: 400;
+  line-height: 56px;
+  margin-bottom: 0;
+  margin-top: 0;
+  padding-left: 10px;
   float: left;
 }
-
-.site-header a:before{
-  content: '';
-  background: #54b3d6;
-  display: block;
-  position: absolute;
-  bottom: -3px;
-  left: 0;
-  width: 0;
-  height: 3px;
-  transition: all 0.3s ease-in-out;
+.menu-list {
+  line-height: $header-thickness;
+  float: right;
 }
-
-.site-header a:hover {
- background-position: 0;
+.menu-link {
+  padding: 5px 10px;
 }
-
-.site-header a:hover::before{
-  width: 100%;
-}
-
-/* Presentational Styles */
-body {
-  display: grid;
-//   font-family: 'Poppins', sans-serif;
-//   font-size: 27px;
-//   font-weight: 700;
-//   height: 100vh;
-  place-items: center;
-}
-
-
-
-
-
-
 
 /*
   Responsiveness with a dropdown menu
@@ -147,7 +60,7 @@ body {
     color: black;
     padding: 16px;
     margin-top: 4px;
-    font-size: 14px;
+    font-size: 16px;
     border: none;
     cursor: pointer;
   }
