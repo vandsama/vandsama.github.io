@@ -7,7 +7,7 @@ disqus:
 # google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Google Search Project',     url: 'https://vandsama.github.io/project0/index.html'}
+- {name: 'Google Search Project',     url: 'project0/index.html'}
 - {name: 'Pet Pals Playdate Website',   url: 'https://github.com/vandsama/tech.elevator.final.capstone.pet.pals'}
 # - {name: 'Education',  url: 'education'}
 # - {name: 'Experience', url: 'experience'}
