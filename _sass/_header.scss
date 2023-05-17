@@ -31,12 +31,15 @@
   float: left;
   width: 50%;
 }
-.site-subtitle {
+.site-subtitle-section {
   font-size: 18px;
   line-height: 56px;
   margin-bottom: 0;
   margin-top: 0;
   width: 50%;
+}
+.site-subtitle {
+  display: inline;
 }
 .menu-list {
   line-height: $header-thickness;
