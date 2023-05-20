@@ -1,11 +1,9 @@
 /* Site container */
-
 .container {
   width: $container-width;
   margin-left: auto;
   margin-right: auto;
 }
-
 .content-wrapper {
   margin-left: 10px;
   display: contents;
@@ -13,54 +11,44 @@
   float: right;
   width: 70%;
 }
-
 .page-content {
   max-width: 100%;
 }
-
 body {
   font-size: 12px;
   overflow-y: scroll;
 }
-
 h1 {
   font-size: 20px;
 }
-
 h2 {
   font-size: 16px;
 }
-
 h3 {
   font-size: 14px;
   color: rgba(0, 0, 0, 0.5);
   margin-top: 0.5rem;
   margin-bottom: 0.5rem;
 }
-
 h4 {
   font-size: 12px;
   color: rgba(0, 0, 0, 0.5);
 }
-
 .sidebarAndContent {
   padding-top: $header-thickness + 16px;
 }
 
 
 /* Sidebar */
-
 .sidebar-wrapper {
   position: static;
   float: left;
   width: 20%;
 }
-
 .sidebar-wrapper img {
   height: 93.75px;
   width: 150px;
 }
-
 .featured-post {
   height: 93.75px;
   width: 150px;
@@ -124,11 +112,9 @@ h4 {
 
 
 /* Raibow Underline Link Effect */
-
 .rainbow-underline:hover {
    background-size: 0 3px, 100% 3px;
  }
-
 .rainbow-underline {
   background:
     linear-gradient(
@@ -149,19 +135,16 @@ h4 {
 }
 
 
-
 /* Icons */
 .experience-row {
   text-align: -webkit-left;
   margin-top: 5px;
   margin-bottom: 5px;
 }
-
 .experience-row p {
   display: inline-block;
   margin: 0;
 }
-
 .icon-wrapper {
   width: 22px;
   text-align: center;
@@ -169,191 +152,176 @@ h4 {
 }
 
 
-
 /* Details & Detail Chevron */
-
 .experience-wrapper details {
   margin-top: 5px;
   margin-bottom: 5px;
 }
-
 details[open] summary::marker {
   content: '\f13a' ' ';
 }
-
 summary::marker {
   content: '\f138' ' ';
   font-family: 'Font Awesome 5 Free';
   font-weight: 700;
 }
-
-// summary::marker {
-//   text-align: center;
-//   display: inline-block;
-// }
-
 summary {
   margin-left: 8px;
 }
-
 .summary-title {
   display: inline-block;
   margin-left: 5px;
 }
-
 .summary-row {
   display: table-row;
 }
-
 .summary-icon {
   display: inline-block;
   margin-left: 8px;
 }
-
 .summary-item {
   display: inline-block;  
   margin-left: 10px;
 }
 
 
-
 /* Video */
 
-.wrapperMov {
-  --color: #1F242D;
-  --color-invert: #ffffff;
-  --clip-path: circle(15px at left);
-  --clip-path-hover: circle(70px at left);
-  --clip-path-clicked: circle(100vw at left);
-  --duration: .4s;
-  --timing-function: ease;
-  position: relative;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 25%;
-  .video {
-    height: 75vh;
-    overflow: hidden;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-left: 15px;
-    clip-path: var(--clip-path);
-    transition: clip-path var(--duration) var(--timing-function);
-    video {
-      position: fixed;
-      background: #c4cbde;
-      top: 50%;
-      left: 50%;
-      min-width: 25%;
-      min-height: 25%;
-      width: auto;
-      height: auto;
-      transform: translate(-50%, -50%);
-    }
-  }
-  .text {
-    position: relative; 
-    text-transform: uppercase;
-    font-weight: 600;
-    letter-spacing: .2px;
-    opacity: var(--opacity, 1);
-    transition: opacity .3s var(--timing-function) .2s;
-    &::before,
-    &::after {
-      content:"";
-      position: absolute;
-      bottom: 0;
-      left: -1px;
-      right: 25px;
-      height: 0;
-    }
-    &::before {
-      box-shadow: 26px 0 0 1px var(--color);
-      right: var(--r, 100%);
-      opacity: var(--opacity, 0);
-      transition: right .5s ease-in, opacity .1s linear;
-    }
-    &::after {
-      box-shadow: 26px 0 0 1px var(--color-invert);
-      clip-path: var(--clip-path);
-      transition: clip-path var(--duration) var(--timing-function);
-    }
-    > span {
-      &::before,
-      &::after {
-        content: attr(data-text);
-        padding-left: 26px;
-      }
-      &::before {
-        color: var(--color);
-      }
-      &::after {
-        color: var(--color-invert);
-        clip-path: var(--clip-path);
-        transition: clip-path var(--duration) var(--timing-function);
-        position: absolute;
-        left: 0;
-      }
-    } 
-  }
-  input {
-    width: 220px;
-    height: 40px;
-    margin: auto;
-    position: absolute;
-    left: 0;
-    right: 0;
-    border-radius: 40px;
-    outline: none; 
-    z-index: 2;
-    appearance: none;
-    cursor: pointer;
-    &:focus {
-      outline: 0;
-    }
-    &:hover {
-      ~ .video {
-        clip-path: var(--clip-path-hover);
-      }
-      ~ .text {
-        &::before {
-          --r: 25px;
-          --opacity: 1;
-        }
-        &::after {
-          clip-path: var(--clip-path-hover);
-        }
-        > span {
-          &::after {
-            clip-path: var(--clip-path-hover);
-          }
-        }
-      }
-    }
-    &:checked {
-      width: 150%;
-      height: 150%;
-      border-radius: 0;
-      ~ .video {
-        clip-path: var(--clip-path-clicked);
-      }
-      ~ .text {
-        --opacity: 0;
-        transition: opacity .3s var(--timing-function);
-        &::after {
-          clip-path: var(--clip-path-clicked);
-        }
-        > span {
-          &::after {
-            clip-path: var(--clip-path-clicked);
-          }
-        }
-      }
-    }
-  }
-}
+// .wrapperMov {
+//   --color: #1F242D;
+//   --color-invert: #ffffff;
+//   --clip-path: circle(15px at left);
+//   --clip-path-hover: circle(70px at left);
+//   --clip-path-clicked: circle(100vw at left);
+//   --duration: .4s;
+//   --timing-function: ease;
+//   position: relative;
+//   display: flex;
+//   justify-content: center;
+//   align-items: center;
+//   width: 25%;
+//   .video {
+//     height: 75vh;
+//     overflow: hidden;
+//     display: flex;
+//     justify-content: center;
+//     align-items: center;
+//     margin-left: 15px;
+//     clip-path: var(--clip-path);
+//     transition: clip-path var(--duration) var(--timing-function);
+//     video {
+//       position: fixed;
+//       background: #c4cbde;
+//       top: 50%;
+//       left: 50%;
+//       min-width: 25%;
+//       min-height: 25%;
+//       width: auto;
+//       height: auto;
+//       transform: translate(-50%, -50%);
+//     }
+//   }
+//   .text {
+//     position: relative; 
+//     text-transform: uppercase;
+//     font-weight: 600;
+//     letter-spacing: .2px;
+//     opacity: var(--opacity, 1);
+//     transition: opacity .3s var(--timing-function) .2s;
+//     &::before,
+//     &::after {
+//       content:"";
+//       position: absolute;
+//       bottom: 0;
+//       left: -1px;
+//       right: 25px;
+//       height: 0;
+//     }
+//     &::before {
+//       box-shadow: 26px 0 0 1px var(--color);
+//       right: var(--r, 100%);
+//       opacity: var(--opacity, 0);
+//       transition: right .5s ease-in, opacity .1s linear;
+//     }
+//     &::after {
+//       box-shadow: 26px 0 0 1px var(--color-invert);
+//       clip-path: var(--clip-path);
+//       transition: clip-path var(--duration) var(--timing-function);
+//     }
+//     > span {
+//       &::before,
+//       &::after {
+//         content: attr(data-text);
+//         padding-left: 26px;
+//       }
+//       &::before {
+//         color: var(--color);
+//       }
+//       &::after {
+//         color: var(--color-invert);
+//         clip-path: var(--clip-path);
+//         transition: clip-path var(--duration) var(--timing-function);
+//         position: absolute;
+//         left: 0;
+//       }
+//     } 
+//   }
+//   input {
+//     width: 220px;
+//     height: 40px;
+//     margin: auto;
+//     position: absolute;
+//     left: 0;
+//     right: 0;
+//     border-radius: 40px;
+//     outline: none; 
+//     z-index: 2;
+//     appearance: none;
+//     cursor: pointer;
+//     &:focus {
+//       outline: 0;
+//     }
+//     &:hover {
+//       ~ .video {
+//         clip-path: var(--clip-path-hover);
+//       }
+//       ~ .text {
+//         &::before {
+//           --r: 25px;
+//           --opacity: 1;
+//         }
+//         &::after {
+//           clip-path: var(--clip-path-hover);
+//         }
+//         > span {
+//           &::after {
+//             clip-path: var(--clip-path-hover);
+//           }
+//         }
+//       }
+//     }
+//     &:checked {
+//       width: 150%;
+//       height: 150%;
+//       border-radius: 0;
+//       ~ .video {
+//         clip-path: var(--clip-path-clicked);
+//       }
+//       ~ .text {
+//         --opacity: 0;
+//         transition: opacity .3s var(--timing-function);
+//         &::after {
+//           clip-path: var(--clip-path-clicked);
+//         }
+//         > span {
+//           &::after {
+//             clip-path: var(--clip-path-clicked);
+//           }
+//         }
+//       }
+//     }
+//   }
+// }
 
 //--- ## BASIC #############
 bodyMov {
@@ -384,7 +352,7 @@ bodyMov {
   }
 }
 
-/* Language SKills Boxes */
+/* Language Skills Boxes */
 .grid-container {
   display: grid;
   grid-template-areas: 'left center right';
@@ -425,26 +393,20 @@ bodyMov {
 }
 
 
-
 /* Downloadable Resume Link Rainbow Hover Effect */
-
 .rainbow-text {
   color: black;
   background: linear-gradient(90deg, red, orange, yellow, green, blue, purple);
   background-clip: text;
   -webkit-background-clip: text;
 }
-
 .rainbow-text:hover {
   color: transparent;
   transition: 500ms ease;
 }
 
 
-
-
 /* Responsive Design */
-
 @media (max-width: $container-width) {
   .container {
     width: 95vw;
