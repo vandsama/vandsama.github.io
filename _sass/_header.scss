@@ -18,9 +18,6 @@
     z-index: 100;
   }
 }
-.site-header a {
-  text-decoration: none;
-}
 .site-title {
   font-size: 26px;
   font-weight: 400;
@@ -49,10 +46,7 @@
   padding: 5px 10px;
 }
 
-/*
-  Responsiveness with a dropdown menu
-*/
-
+/* Responsive dropdown menu */
 @media (min-width: $container-width) {
   .dropbtn {
     display: none;
