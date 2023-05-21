@@ -7,6 +7,10 @@
   padding-top: $header-thickness + 16px;
 }
 
+article {
+  padding-top: 50px;
+}
+
 /* Rainbow Underline Link Effect */
 .rainbow-underline:hover {
    background-size: 0 3px, 100% 3px;
