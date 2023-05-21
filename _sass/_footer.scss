@@ -8,7 +8,15 @@ footer {
   width: 100%;
   position: fixed;
   bottom: 0;
+  
+  min-height: 56px;
+  width: 100%;
+  position: fixed;
+  background-color: white;
   box-shadow: 0 5px 6px -6px #bbb;
+  z-index: 100;
+  display: inline-flex;
+  justify-content: space-between;
 }
 footer a {
   color: $brand-color;
