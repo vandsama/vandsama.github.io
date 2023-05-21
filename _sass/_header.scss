@@ -12,6 +12,11 @@ header {
   border-radius: 5px; 
   margin: auto;
 }
+header a {
+  color: $brand-color;
+  padding: 0px 5px 0px 5px;
+  text-decoration: none;
+}
 @media (max-width: $container-width) {
   .site-header {
     min-height: 56px;
