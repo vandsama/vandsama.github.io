@@ -5,3 +5,35 @@
   display: block;
   padding: 10px auto 10px;
 }
+
+/* Details & Detail Chevron */
+.experience-wrapper details {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+details[open] summary::marker {
+  content: '\f13a' ' ';
+}
+summary::marker {
+  content: '\f138' ' ';
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 700;
+}
+summary {
+  margin-left: 8px;
+}
+.summary-title {
+  display: inline-block;
+  margin-left: 5px;
+}
+.summary-row {
+  display: table-row;
+}
+.summary-icon {
+  display: inline-block;
+  margin-left: 8px;
+}
+.summary-item {
+  display: inline-block;  
+  margin-left: 10px;
+}
