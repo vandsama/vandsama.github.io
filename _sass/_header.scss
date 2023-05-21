@@ -43,7 +43,8 @@ header {
   display: inline;
 }
 .menu-list {
-  line-height: $header-thickness;
+//   line-height: $header-thickness;
+  line-height: 46px;
   float: right;
 }
 .menu-link {
