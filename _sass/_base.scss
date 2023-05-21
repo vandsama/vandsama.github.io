@@ -2,22 +2,6 @@
   Reset some basic elements
 */
 
-.container {
-    border: solid 1px #ff0000;
-    zoom: 1; /* IE6&7 */
-}
-
-.container:before,
-.container:after {
-    content: "";
-    display: table;
-}
-
-.container:after {
-    clear: both;
-}
-
-
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
