@@ -1,6 +1,4 @@
-/*
-  Reset some basic elements
-*/
+/* Reset some basic elements */
 
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
@@ -54,8 +52,6 @@ h4 {
 /* Body */
 body {
   font-family: $base-font-family;
-}
-body {
   font-size: 12px;
   overflow-y: scroll;
 }
@@ -101,19 +97,13 @@ dd {
   margin-bottom: .5rem;
 }
 
-/*
-  Links
-*/
-
+/* Links */
 a {
   color: $brand-color;
   text-decoration: none;
 }
 
-/*
-  Blockquote
-*/
-
+/* Blockquote */
 blockquote {
   margin: 10px 20px 10px;
   padding: 0px 15px;
@@ -122,9 +112,7 @@ blockquote {
   line-height: 1.5;
 }
 
-/**
- * Tables
- */
+/* Tables */
 table {
   border-collapse: collapse;
   margin-bottom: 30px;
