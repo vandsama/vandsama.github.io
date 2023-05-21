@@ -6,6 +6,22 @@
   padding: 10px auto 10px;
 }
 
+/* Icons */
+.experience-row {
+  text-align: -webkit-left;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.experience-row p {
+  display: inline-block;
+  margin: 0;
+}
+.icon-wrapper {
+  width: 22px;
+  text-align: center;
+  display: inline-block;
+}
+
 /* Details & Detail Chevron */
 .experience-wrapper details {
   margin-top: 5px;
