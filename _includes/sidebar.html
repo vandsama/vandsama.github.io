@@ -1,61 +1,63 @@
 <!-- {% assign sidebar = site.data.data.sidebar %} -->
 <aside class="sidebar">
-  <article>
-    <a href=" https://vandsama.github.io/skills ">
-      <div class="featured-post">
-        <img src="assets/img/pexels-miguel-á-padriñán-3785935-resized.jpg" alt="hi" class="featured-post"/>
-        <h2><span>Skills</span></h2>
-      </div>
-    </a>
-  </article>
-  <article>
-    <a href=" https://vandsama.github.io/projects ">
-      <div class="featured-post">
-        <img src="assets/img/pexels-anete-lusina-4792286-resized.jpg" alt="hi" class="featured-post"/>
-        <h2><span>Projects</span></h2>
-      </div>
-    </a>
-  </article>
-  <article>
-    <a href=" https://vandsama.github.io/education ">
-      <div class="featured-post">
-        <img src="assets/img/pexels-pavel-danilyuk-7942430-resized.jpg" alt="hi" class="featured-post"/>
-        <h2><span>Education</span></h2>
-      </div>
-    </a>
-  </article>
-  <article>
-    <a href=" https://vandsama.github.io/experience ">
-      <div class="featured-post">
-        <img src="assets/img/pexels-ömer-yılmaz-6726743-resized.jpg" alt="hi" class="featured-post"/>
-        <h2><span>Experience</span></h2>
-      </div>
-    </a>
-  </article>
-  <article>
-    <a href=" https://vandsama.github.io/about ">
-      <div class="featured-post">
-        <img src="assets/img/pexels-cottonbro-studio-7610808-resized.jpg" alt="hi" class="featured-post"/>
-        <h2><span>About</span></h2>
-      </div>
-    </a>
-  </article>
-  <article>
-    <a href=" https://vandsama.github.io/contact ">
-      <div class="featured-post">
-        <img src="assets/img/pexels-ds-stories-9227566-resized.jpg" alt="hi" class="featured-post"/>
-        <h2><span>Contact</span></h2>
-      </div>
-    </a>
-  </article>
-  
-  {% for post in paginator.posts %}
-    {% include featured-post.html %}
-  {% endfor %}
+  <div class="container">
+    <article>
+      <a href=" https://vandsama.github.io/skills ">
+        <div class="featured-post">
+          <img src="assets/img/pexels-miguel-á-padriñán-3785935-resized.jpg" alt="hi" class="featured-post"/>
+          <h2><span>Skills</span></h2>
+        </div>
+      </a>
+    </article>
+    <article>
+      <a href=" https://vandsama.github.io/projects ">
+        <div class="featured-post">
+          <img src="assets/img/pexels-anete-lusina-4792286-resized.jpg" alt="hi" class="featured-post"/>
+          <h2><span>Projects</span></h2>
+        </div>
+      </a>
+    </article>
+    <article>
+      <a href=" https://vandsama.github.io/education ">
+        <div class="featured-post">
+          <img src="assets/img/pexels-pavel-danilyuk-7942430-resized.jpg" alt="hi" class="featured-post"/>
+          <h2><span>Education</span></h2>
+        </div>
+      </a>
+    </article>
+    <article>
+      <a href=" https://vandsama.github.io/experience ">
+        <div class="featured-post">
+          <img src="assets/img/pexels-ömer-yılmaz-6726743-resized.jpg" alt="hi" class="featured-post"/>
+          <h2><span>Experience</span></h2>
+        </div>
+      </a>
+    </article>
+    <article>
+      <a href=" https://vandsama.github.io/about ">
+        <div class="featured-post">
+          <img src="assets/img/pexels-cottonbro-studio-7610808-resized.jpg" alt="hi" class="featured-post"/>
+          <h2><span>About</span></h2>
+        </div>
+      </a>
+    </article>
+    <article>
+      <a href=" https://vandsama.github.io/contact ">
+        <div class="featured-post">
+          <img src="assets/img/pexels-ds-stories-9227566-resized.jpg" alt="hi" class="featured-post"/>
+          <h2><span>Contact</span></h2>
+        </div>
+      </a>
+    </article>
 
-  <a href="{{ site.github.url }}{{ post.url }}">
-    <div class="featured-image" {% if page.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ page.image }})"{% endif %}>
-      <h2><span>{{ page.title }}</span></h2>
-    </div>
-  </a>   
+    {% for post in paginator.posts %}
+      {% include featured-post.html %}
+    {% endfor %}
+
+    <a href="{{ site.github.url }}{{ post.url }}">
+      <div class="featured-image" {% if page.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ page.image }})"{% endif %}>
+        <h2><span>{{ page.title }}</span></h2>
+      </div>
+    </a>   
+  </div>
 </aside>
