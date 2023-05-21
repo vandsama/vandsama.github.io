@@ -7,13 +7,13 @@ footer {
   width: $container-width;
   bottom: 0;
 }
-.footer a {
+footer a {
   color: $brand-color;
   padding: 0px 10px 0px;
   text-decoration: none;
 }
 @media (max-width: $container-width) {
-  .footer {
+  footer {
     background: white;
     color: $brand-color;
     text-align: center;
