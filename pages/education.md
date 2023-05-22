@@ -115,31 +115,23 @@ permalink: /education
        <p>
             <div class="summary-row">
                <div class="summary-icon">■</div> 
-              <div class="summary-item">Full-Stack Java Programming</div>
+              <div class="summary-item">A full-stack Java coding bootcamp learning how to develop dynamic web-based software systems using the Java programming language and platform with 700+ hours of lecture and application including:</div>
             </div>
             <div class="summary-row">
                <div class="summary-icon">■</div> 
-              <div class="summary-item">SQL Databases</div>
+              <div class="summary-item">Object-Oriented Programming: Java</div>
             </div>
             <div class="summary-row">
                <div class="summary-icon">■</div> 
-              <div class="summary-item">JavaScript</div>
+              <div class="summary-item">Web Application Development: HTML, CSS, JavaScript, Spring Boot, Vue.js</div>
+            </div>
+            <div class="summary-row">
+               <div class="summary-icon">■</div> 
+              <div class="summary-item">Database Programming: JDBC, Table Design, SQL, PostgreSQL, E/R diagrams</div>
             </div>
             <div class="summary-row">
               <div class="summary-icon">■</div>
-              <div class="summary-item">SpringBoot</div>
-            </div>
-            <div class="summary-row">
-                <div class="summary-icon">■</div>
-              <div class="summary-item">HTML, CSS, and Git</div>
-            </div>
-            <div class="summary-row">
-                <div class="summary-icon">■</div>
-              <div class="summary-item">Vue.js, IntelliJ</div>
-            </div>
-            <div class="summary-row">
-                     <div class="summary-icon">■</div>
-              <div class="summary-item">Unit Testing (JUnit), E/R diagrams, Integration Testing</div>
+              <div class="summary-item">Development Tools and Techniques: Agile, Unit Testing (JUnit), Integration Testing, Unix Command Line navigation, Git, IntelliJ</div>
             </div>
        </p>
     </details>  
