@@ -8,13 +8,17 @@ aside {
   max-width: 295px;
 	margin-bottom: 50px;
 }
+
 @media (max-width:991px) {
-	.aside {
-		width: 100%;
-		max-width: 992px;
-		margin-bottom: 0
+	.featured-post {
+	    height: 58px;
+	    width: 85px;
 	}
-}
+	.featured-post h2 span {
+	    font-size: 12px;
+	}
+}	
+	
 aside img {
   height: 93.75px;
   width: 150px;
