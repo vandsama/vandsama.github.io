@@ -20,6 +20,12 @@
 //   padding-top: $header-thickness + 16px;
 // }
 
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 /* Responsive Design */
 @media (max-width: $container-width) {
   .container {
