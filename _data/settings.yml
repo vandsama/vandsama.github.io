@@ -6,17 +6,17 @@ disqus:
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
 # google-ID: 'UA-112060364-2'
 
-menu:
-- {name: 'Google Search Project',     url: 'project0/index.html'}
-- {name: 'Pet Pals Playdate Website',   url: 'https://github.com/vandsama/tech.elevator.final.capstone.pet.pals'}
+# menu:
+# - {name: 'Google Search Project',     url: 'project0/index.html'}
+# - {name: 'Pet Pals Playdate Website',   url: 'https://github.com/vandsama/tech.elevator.final.capstone.pet.pals'}
 # - {name: 'Education',  url: 'education'}
 # - {name: 'Experience', url: 'experience'}
 # - {name: 'About',      url: 'about'}
 # - {name: 'Contact',    url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
-social:
- - {icon: 'linkedin', link:    'https://www.linkedin.com/in/s-vanderburgh/'}
+# social:
+#  - {icon: 'linkedin', link:    'https://www.linkedin.com/in/s-vanderburgh/'}
 # - {icon: 'twitter', link:    'https://twitter.com/paululele'}
 # - {icon: 'facebook', link:   'https://www.facebook.com/paululele'}
 # - {icon: 'instagram', link:  'https://instagram.com/paululele'}
