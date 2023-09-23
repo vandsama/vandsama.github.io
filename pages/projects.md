@@ -4,6 +4,10 @@ title: Projects
 permalink: /projects
 ---
 
+<h2><a class="rainbow-underline" href="https://vandsama.github.io/simplified-chopin/" target="_blank">Simplified Chopin</a></h2>
+<h3>Solo Piano for Beginners with Scores Arranged by SEV</h3>
+<a class="rainbow-underline" href="https://vandsama.github.io/simplified-chopin/" target="_blank">Simplified Chopin Project</a>
+
 <h2><a class="rainbow-underline" href="https://cs50.harvard.edu/web/2020/" target="_blank">CS50’s Web Programming with Python and JavaScript</a></h2>
 <h3>Harvard University OpenCourseWare</h3>
 <a class="rainbow-underline" href="https://vandsama.github.io/project0/index.html" target="_blank">Google Search Project</a>
