@@ -137,7 +137,7 @@ permalink: /education
     </details>  
 </div>
 
-<h2><a class="rainbow-underline" href="https://www.cidef.uco.fr/navigation/academics/certifications/certificates-7821.kjsp" target="_blank">French Certificate</a></h2>
+<h2><a class="rainbow-underline" href="https://www.cidef.uco.fr/navigation/academics/certifications/certificates-7821.kjsp" target="_blank">French Language Certificate</a></h2>
 <div class="experience-wrapper">
     <div class="experience-row">
        <div class="icon-wrapper"><i class="fa-solid fa-school"></i></div>
@@ -153,6 +153,11 @@ permalink: /education
     </div>
     <details><summary><div class="summary-title">Curriculum</div></summary>
        <p>
+            <div class="summary-row">
+                 <div class="summary-icon">■</div> 
+                  <div class="summary-item">Diplôme de Français des Affaires (Diploma of business French degree at B2 and C1 level) organised by the Chambre de commerce et d’industrie de Paris (Paris Chamber of commerce).
+            </div>
+            </div> 
             <div class="summary-row">
                  <div class="summary-icon">■</div> 
                   <div class="summary-item">French Language</div>
