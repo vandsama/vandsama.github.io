@@ -1,12 +1,18 @@
 aside {
-  position: static;
+  position: -webkit-sticky; /* For Safari */
+  position: sticky;        /* Keeps sidebar visible while scrolling */
+  top: 60px;               /* Distance from top when sticky */
   float: left;
   width: 20%;
-  padding-top: $header-thickness + 16px;
-  padding-top: 60px;
-  min-width:200px;
+  padding-top: 20px;
+  min-width: 200px;
   max-width: 295px;
-	margin-bottom: 50px;
+  margin-bottom: 50px;
+  
+  /* --- ADD THESE FOR SCROLLING --- */
+  height: calc(100vh - 80px); /* Full viewport height minus top padding */
+  overflow-y: auto;          /* Enables vertical scrollbar */
+  overflow-x: hidden;        /* Hides horizontal scrollbar */
 }
 
 @media (max-width:991px) {
