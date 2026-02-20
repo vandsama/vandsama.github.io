@@ -1,19 +1,31 @@
 aside {
-  position: -webkit-sticky; /* For Safari */
-  position: sticky;        /* Keeps sidebar visible while scrolling */
-  top: 60px;               /* Distance from top when sticky */
+  /* --- STICKY & POSITIONING --- */
+  position: -webkit-sticky; 
+  position: sticky;
+  top: 60px;               /* Matches header height */
   float: left;
   width: 20%;
-  padding-top: 20px;
   min-width: 200px;
   max-width: 295px;
-  margin-bottom: 50px;
-  
-  /* --- ADD THESE FOR SCROLLING --- */
-  height: calc(100vh - 80px); /* Full viewport height minus top padding */
-  overflow-y: auto;          /* Enables vertical scrollbar */
-  overflow-x: hidden;        /* Hides horizontal scrollbar */
+
+  /* --- FULL LENGTH & SCROLLING --- */
+  /* Subtract top offset (60px) from full viewport height (100vh) */
+  height: calc(100vh - 60px); 
+  overflow-y: auto;        
+  overflow-x: hidden;
+  padding-top: 20px;
+  box-sizing: border-box;  /* Prevents padding from breaking height calc */
+
+  /* --- HIDE SCROLLBAR (Cross-Browser) --- */
+  scrollbar-width: none;            /* Firefox */
+  -ms-overflow-style: none;         /* IE and Edge */
 }
+
+/* Hide scrollbar for Chrome, Safari, and Opera */
+aside::-webkit-scrollbar {
+  display: none;
+}
+
 
 @media (max-width:991px) {
 	.featured-post {
