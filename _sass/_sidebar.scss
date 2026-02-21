@@ -1,22 +1,21 @@
 aside {
-  /* --- STICKY & POSITIONING --- */
-  position: -webkit-sticky; 
-  position: sticky;
-  top: 0;                  
-  float: left;
+  /* --- LOCK TO VIEWPORT --- */
+  position: fixed;         /* Use 'fixed' instead of 'sticky' to stop jumps */
+  top: 0;
+  left: 0;                 /* Pins it to the left edge */
+  z-index: 1000;           /* Ensures it stays on top of other content */
+
+  /* --- DIMENSIONS --- */
   width: 20%;
   min-width: 200px;
   max-width: 295px;
+  height: 100vh;           /* Full height of the screen */
 
-  /* --- FULL LENGTH & SCROLLING --- */
-  height: 100vh; 
+  /* --- SCROLLING --- */
   overflow-y: auto;        
   overflow-x: hidden;
-  padding-top: 0;          
-  box-sizing: border-box;  
-  
-  /* --- REMOVED smooth behavior to stop jumping/readjusting --- */
-  scroll-behavior: auto; 
+  padding-top: 20px;       /* Internal spacing only */
+  box-sizing: border-box;
 
   /* --- HIDE SCROLLBAR --- */
   scrollbar-width: none;            
@@ -25,6 +24,12 @@ aside {
 
 aside::-webkit-scrollbar {
   display: none;
+}
+
+/* --- IMPORTANT: PUSH MAIN CONTENT OVER --- */
+main {
+  margin-left: 20%;        /* Must match sidebar width to prevent overlapping */
+  padding: 20px;
 }
 
 
