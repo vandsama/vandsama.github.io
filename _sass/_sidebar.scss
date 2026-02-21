@@ -2,30 +2,33 @@ aside {
   /* --- STICKY & POSITIONING --- */
   position: -webkit-sticky; 
   position: sticky;
-  top: 60px;
+  top: 0;                  /* Changed to 0 to make it flush with the top */
   float: left;
   width: 20%;
   min-width: 200px;
   max-width: 295px;
 
   /* --- FULL LENGTH & SCROLLING --- */
-  height: calc(100vh - 60px); 
+  /* Height is now full viewport height since top is 0 */
+  height: 100vh; 
   overflow-y: auto;        
   overflow-x: hidden;
-  padding-top: 20px;
-  box-sizing: border-box;
+  padding-top: 0;          /* Removed padding to ensure content starts at the very top */
+  box-sizing: border-box;  
   
   /* --- RESET BEHAVIOR --- */
-  scroll-behavior: smooth; /* Makes the reset to top look professional */
+  scroll-behavior: smooth;
 
-  /* --- HIDE SCROLLBAR --- */
-  scrollbar-width: none;
-  -ms-overflow-style: none;
+  /* --- HIDE SCROLLBAR (Cross-Browser) --- */
+  scrollbar-width: none;            
+  -ms-overflow-style: none;         
 }
 
+/* Hide scrollbar for Chrome, Safari, and Opera */
 aside::-webkit-scrollbar {
   display: none;
 }
+
 
 
 @media (max-width:991px) {
